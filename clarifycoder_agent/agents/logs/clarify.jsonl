@@ -1,0 +1,493 @@
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-14T18:55:28.243808"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-14T18:55:28.271989"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T18:55:28.277479"}
+{"prompt": "Compute factorial of a number", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T18:55:28.283604"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T18:55:28.302751"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T18:55:28.306140"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T18:55:28.311171"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T18:55:28.315120"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-14T22:14:22.822839"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-14T22:14:23.032529"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:14:23.038089"}
+{"prompt": "Compute factorial of a number", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:14:23.041029"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:14:23.065912"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:14:23.069475"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:14:23.072596"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:14:23.074727"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-14T22:23:53.571022"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-14T22:23:53.702953"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:23:53.708629"}
+{"prompt": "Compute factorial of a number", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.714978"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.760169"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.769182"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.825961"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.830291"}
+{"prompt": "Compute gcd of two numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.841238"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.845043"}
+{"prompt": "Raise a number to a power", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.850181"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.853727"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.857116"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.860751"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.863766"}
+{"prompt": "Append text to a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.866982"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.869843"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:23:53.873557"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-14T22:29:06.556124"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-14T22:29:06.624817"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:29:06.629996"}
+{"prompt": "Compute factorial of a number", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.634665"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.644818"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.650663"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.655713"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.660595"}
+{"prompt": "Compute gcd of two numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.671300"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.676751"}
+{"prompt": "Raise a number to a power", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.681094"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.685458"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.690988"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.696241"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.701900"}
+{"prompt": "Append text to a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:06.847276"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:07.015373"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:29:07.023706"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-14T22:32:58.641261"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-14T22:32:58.654739"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:32:58.662777"}
+{"prompt": "Compute factorial of a number", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.666557"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.676809"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.681440"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.685678"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.690897"}
+{"prompt": "Compute gcd of two numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.699042"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.702710"}
+{"prompt": "Raise a number to a power", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.707146"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.711361"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.715000"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.718511"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.722034"}
+{"prompt": "Append text to a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.730589"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.738930"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.743374"}
+{"prompt": "Write a function to compress data", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.747166"}
+{"prompt": "Make a broken function without colon", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.750983"}
+{"prompt": "Draw a 3D cube using OpenGL", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:32:58.756037"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-14T22:35:03.033400"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-14T22:35:03.044452"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:35:03.049560"}
+{"prompt": "Compute factorial of a number", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.053874"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.065023"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.069278"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.074640"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.079582"}
+{"prompt": "Compute gcd of two numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.087696"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.091267"}
+{"prompt": "Raise a number to a power", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.095704"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.099766"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.103642"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.107144"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.111466"}
+{"prompt": "Append text to a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.119190"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.127120"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.131320"}
+{"prompt": "Write a function to compress data", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.134929"}
+{"prompt": "Make a broken function without colon", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.138285"}
+{"prompt": "Draw a 3D cube using OpenGL", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:35:03.143514"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-14T22:36:55.735543"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-14T22:36:55.747571"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:36:55.754132"}
+{"prompt": "Compute factorial of a number", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.759954"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.772877"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.779129"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.784869"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.790311"}
+{"prompt": "Compute gcd of two numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.800526"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.805610"}
+{"prompt": "Raise a number to a power", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.812276"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.817822"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.823396"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.830524"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.835579"}
+{"prompt": "Append text to a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.846359"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.856338"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.862205"}
+{"prompt": "Write a function to compress data", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.867321"}
+{"prompt": "Make a broken function without colon", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.872351"}
+{"prompt": "Draw a 3D cube using OpenGL", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:36:55.881612"}
+{"prompt": "Check if a number is even or odd", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:34.638200"}
+{"prompt": "Find the minimum element in a list", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:34.646529"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:34.652762"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-14T22:40:34.660346"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:34.666611"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:34.673213"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:34.688459"}
+{"prompt": "Count vowels in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:34.699138"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:34.717024"}
+{"prompt": "Remove duplicates from a list", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:34.722993"}
+{"prompt": "Find common elements between two lists", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:38.757459"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:38.764213"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:38.771115"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:40:38.777892"}
+{"prompt": "Find the minimum element in a list", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:38.783001"}
+{"prompt": "Calculate the sum of a list of numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:38.788472"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:38.792530"}
+{"prompt": "Write a function to compress data", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:38.797030"}
+{"prompt": "Compute gcd of two numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:38.801558"}
+{"prompt": "Compute factorial of a number", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:41.717786"}
+{"prompt": "Draw a 3D cube using OpenGL", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:41.729141"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:41.735175"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:41.740791"}
+{"prompt": "Convert a string to lowercase", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:41.745860"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:41.752077"}
+{"prompt": "Check if two strings are anagrams", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:48.911188"}
+{"prompt": "Calculate the sum of a list of numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:48.917949"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:40:48.924496"}
+{"prompt": "Flatten a nested list", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:48.930507"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:48.936088"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:53.082785"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:53.095552"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:53.100906"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:53.106781"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:53.111679"}
+{"prompt": "Remove duplicates from a list", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:53.116196"}
+{"prompt": "Compute gcd of two numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:53.121967"}
+{"prompt": "Check if a number is even or odd", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:54.875961"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:54.881904"}
+{"prompt": "Calculate the sum of a list of numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:54.892129"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:54.897133"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:54.903083"}
+{"prompt": "Find common elements between two lists", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:54.908904"}
+{"prompt": "Write a function to compress data", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:54.913862"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:54.919134"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:54.925530"}
+{"prompt": "Find common elements between two lists", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:57.135543"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:57.142135"}
+{"prompt": "Append text to a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:57.151968"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:40:57.162107"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:57.168384"}
+{"prompt": "Compute gcd of two numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:57.174353"}
+{"prompt": "Calculate the sum of a list of numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:57.179400"}
+{"prompt": "Check if a number is even or odd", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:57.184999"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:40:57.190276"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:04.104225"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:04.112236"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:04.123853"}
+{"prompt": "Remove duplicates from a list", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:04.129907"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:04.135678"}
+{"prompt": "Check if two strings are anagrams", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:04.141119"}
+{"prompt": "Find common elements between two lists", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:04.147052"}
+{"prompt": "Capitalize the first letter of each word in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:04.152259"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:04.157384"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:05.861084"}
+{"prompt": "Make a broken function without colon", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:05.868061"}
+{"prompt": "Flatten a nested list", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:05.877179"}
+{"prompt": "Compute gcd of two numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:05.883051"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-14T22:41:05.889078"}
+{"prompt": "Convert a string to uppercase", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:05.895208"}
+{"prompt": "Compute factorial of a number", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:05.901087"}
+{"prompt": "Write a function to calculate square root", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:05.911769"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-14T22:41:05.916674"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-14T22:41:05.923257"}
+{"prompt": "Compute gcd of two numbers", "status": "ambiguous", "clarifications": ["What are the two numbers for which you want to compute the gcd?"], "timestamp": "2025-09-15T10:29:07.944478"}
+{"prompt": "Draw a 3D cube using OpenGL", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:29:13.335303"}
+{"prompt": "Append text to a file", "status": "ambiguous", "clarifications": ["What specific text do you want to append to the file? Additionally, could you clarify the file's name and its location?"], "timestamp": "2025-09-15T10:29:38.413497"}
+{"prompt": "Count vowels in a string", "status": "ambiguous", "clarifications": ["What specific programming language should be used for counting the vowels? Additionally, do you want the count of each vowel separately or just the total number of vowels?"], "timestamp": "2025-09-15T10:29:42.726934"}
+{"prompt": "Check if a number is even or odd", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:29:46.931420"}
+{"prompt": "Raise a number to a power", "status": "ambiguous", "clarifications": ["What number do you want to raise to a power, and what is the exponent?"], "timestamp": "2025-09-15T10:29:50.092634"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:29:53.169917"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:38:01.152324"}
+{"prompt": "Find the minimum element in a list", "status": "ambiguous", "clarifications": ["What type of list are you referring to? Is it a list of numbers, strings, or another data type? Additionally, should the function handle empty lists, and if so, what should it return in that case?"], "timestamp": "2025-09-15T10:38:08.203538"}
+{"prompt": "Find common elements between two lists", "status": "ambiguous", "clarifications": ["What are the data types of the elements in the lists? Are the lists guaranteed to contain only unique elements, or can they have duplicates? Should the output be a list of unique common elements, or can it include duplicates as well?"], "timestamp": "2025-09-15T10:38:13.827027"}
+{"prompt": "Reverse a given string", "status": "ambiguous", "clarifications": ["What is the expected input for the string? Should it be a single word, a sentence, or can it include special characters and spaces? Additionally, do you want the output to maintain the original casing of the characters?"], "timestamp": "2025-09-15T10:38:20.576967"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:38:23.948007"}
+{"prompt": "Compute gcd of two numbers", "status": "ambiguous", "clarifications": ["What are the two numbers for which you want to compute the gcd?"], "timestamp": "2025-09-15T10:38:27.015401"}
+{"prompt": "Convert a string to uppercase", "status": "ambiguous", "clarifications": ["What programming language should be used for converting the string to uppercase?"], "timestamp": "2025-09-15T10:38:30.091963"}
+{"prompt": "Count vowels in a string", "status": "ambiguous", "clarifications": ["What specific programming language should be used for counting the vowels? Additionally, do you want the count of each vowel separately or just the total number of vowels?"], "timestamp": "2025-09-15T10:41:02.816546"}
+{"prompt": "Draw a 3D cube using OpenGL", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:41:07.280978"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:41:26.945625"}
+{"prompt": "Convert a string to uppercase", "status": "ambiguous", "clarifications": ["What programming language should be used for converting the string to uppercase?"], "timestamp": "2025-09-15T10:41:30.945512"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What type of results are you looking to save (e.g., text, JSON, CSV)?", "What programming language should the function be written in?", "What should the file name and format be?", "Should the function handle overwriting existing files, or should it append to them?", "Are there any specific error handling requirements?", "Where should the file be saved (e.g., a specific directory)?"], "timestamp": "2025-09-15T10:41:37.820248"}
+{"prompt": "Make a broken function without colon", "status": "ambiguous", "clarifications": ["What do you mean by \"broken function\"? Are you looking for a function that has a syntax error, or one that doesn't work as intended? Additionally, could you clarify what programming language you would like this function to be written in?"], "timestamp": "2025-09-15T10:41:43.021575"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["What type of data will be used for training the classifier (e.g., emails, messages, etc.)? What programming language or framework do you prefer for building the classifier? Are there specific features or algorithms you want to use? What performance metrics are you interested in for evaluating the classifier?"], "timestamp": "2025-09-15T10:41:51.226433"}
+{"prompt": "Check if a number is even or odd", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:41:57.799580"}
+{"prompt": "Append text to a file", "status": "ambiguous", "clarifications": ["What specific text do you want to append to the file? Additionally, could you clarify which programming language you are using and the path of the file you want to modify?"], "timestamp": "2025-09-15T10:42:01.454244"}
+{"prompt": "Write a function to compress data", "status": "ambiguous", "clarifications": ["What type of data do you want to compress (e.g., text, images, binary files)? What compression algorithm or method should be used (e.g., gzip, zlib, custom algorithm)? Should the function return the compressed data in a specific format?"], "timestamp": "2025-09-15T10:44:11.118400"}
+{"prompt": "Convert a string to uppercase", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:26.394327"}
+{"prompt": "Check if two strings are anagrams", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:26.409947"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:26.409947"}
+{"prompt": "Write a function to compress data", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:26.629696"}
+{"prompt": "Find the minimum element in a list", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:26.645351"}
+{"prompt": "Flatten a nested list", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:26.660966"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:26.660966"}
+{"prompt": "Draw a 3D cube using OpenGL", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:45.743261"}
+{"prompt": "Write a function to calculate square root", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:45.743261"}
+{"prompt": "Convert a string to lowercase", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:45.743261"}
+{"prompt": "Remove duplicates from a list", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:45.758903"}
+{"prompt": "Write a function to compress data", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:44:45.758903"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-15T10:44:45.774660"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:44.177240"}
+{"prompt": "Convert a string to uppercase", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:44.192885"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:44.192885"}
+{"prompt": "Append text to a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:44.192885"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-15T10:47:44.397114"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:44.459581"}
+{"prompt": "Draw a 3D cube using OpenGL", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:44.459581"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:58.265767"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:58.265767"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:58.281392"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:58.281392"}
+{"prompt": "Convert a string to uppercase", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:47:58.281392"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:48:04.207094"}
+{"prompt": "Check if a number is even or odd", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:48:04.238348"}
+{"prompt": "Find the minimum element in a list", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:48:04.238348"}
+{"prompt": "Find the maximum element in a list", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:48:04.238348"}
+{"prompt": "Calculate the sum of a list of numbers", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:48:04.253968"}
+{"prompt": "Raise a number to a power", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:48:04.253968"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T10:48:04.269595"}
+{"prompt": "Write a function to compress data", "status": "ambiguous", "clarifications": ["What type of data do you want to compress (e.g., text, images, binary files)? What compression algorithm or method should be used (e.g., gzip, zlib, custom algorithm)? Should the function return the compressed data in a specific format?"], "timestamp": "2025-09-15T10:53:40.923763"}
+{"prompt": "Write a function to calculate square root", "status": "ambiguous", "clarifications": ["What type of input will the function accept (e.g., integer, float)? Should the function handle negative numbers, and if so, how? Do you want the result to be a specific precision (number of decimal places)? Should the function return an error message or raise an exception for invalid inputs?"], "timestamp": "2025-09-15T10:53:50.595962"}
+{"prompt": "Find the lcm of two values", "status": "ambiguous", "clarifications": ["What are the two values for which you want to find the least common multiple (LCM)?"], "timestamp": "2025-09-15T10:53:53.771577"}
+{"prompt": "Compute gcd of two numbers", "status": "ambiguous", "clarifications": ["What two numbers should be used to compute the gcd?"], "timestamp": "2025-09-15T10:53:56.643891"}
+{"prompt": "Flatten a nested list", "status": "ambiguous", "clarifications": ["What is the expected output format for the flattened list? Should it be a single list or a specific data structure? Additionally, are there any constraints on the types of elements within the nested list (e.g., only integers, strings, etc.)?"], "timestamp": "2025-09-15T10:54:00.031786"}
+{"prompt": "Count vowels in a string", "status": "ambiguous", "clarifications": ["What specific vowels should be counted (e.g., only 'a', 'e', 'i', 'o', 'u', or should it include uppercase vowels as well)? Additionally, should the count be case-sensitive or case-insensitive?"], "timestamp": "2025-09-15T10:54:04.499458"}
+{"prompt": "Convert a string to uppercase", "status": "ambiguous", "clarifications": ["What programming language should be used for converting the string to uppercase?"], "timestamp": "2025-09-15T10:54:07.605084"}
+{"prompt": "Reverse a given string", "status": "ambiguous", "clarifications": ["What is the expected input for the string? Should it be a single line of text, or can it include multiple lines? Additionally, should the output be returned as a new string, or should it modify the original string in place?"], "timestamp": "2025-09-15T10:54:10.983259"}
+{"prompt": "Check if a string is palindrome", "status": "ambiguous", "clarifications": ["What programming language should be used for the palindrome check? Additionally, should the check be case-sensitive, and should spaces and punctuation be ignored?"], "timestamp": "2025-09-15T10:54:14.152920"}
+{"prompt": "Find the maximum element in a list", "status": "ambiguous", "clarifications": ["What type of list are you referring to? Is it a list of integers, floats, or a mix of data types? Additionally, should the function handle empty lists, and if so, what should it return in that case?"], "timestamp": "2025-09-15T10:54:17.448080"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-15T11:26:38.878586"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:26:38.894209"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:26:38.894209"}
+{"prompt": "Reverse a given string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:26:38.894209"}
+{"prompt": "Flatten a nested list", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:26:38.909832"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-15T11:26:38.909832"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:26:39.085427"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What file format should I use (txt, csv, json)?"], "timestamp": "2025-09-15T11:43:06.109993"}
+{"prompt": "Push an element to a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:43:06.157139"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:43:06.157139"}
+{"prompt": "Draw a 3D cube using OpenGL", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:43:06.157139"}
+{"prompt": "Flatten a nested list", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:43:06.157139"}
+{"prompt": "Merge two dictionaries", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:43:06.172384"}
+{"prompt": "Append text to a file", "status": "ambiguous", "clarifications": ["What specific text do you want to append to the file? Also, could you clarify the file's name and its location? Additionally, what programming language are you using?"], "timestamp": "2025-09-15T11:43:14.153662"}
+{"prompt": "Reverse a given string", "status": "ambiguous", "clarifications": ["What is the expected input for the string? Should it be a single line of text, or can it include multiple lines? Additionally, should the output be returned as a new string, or should it modify the original string in place?"], "timestamp": "2025-09-15T11:44:02.974741"}
+{"prompt": "Check if two strings are anagrams", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:48:38.066744"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:48:40.365129"}
+{"prompt": "Compute gcd of two numbers", "status": "ambiguous", "clarifications": ["What are the two numbers for which you want to compute the gcd?"], "timestamp": "2025-09-15T11:48:42.383536"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:48:58.925323"}
+{"prompt": "Convert a string to uppercase", "status": "ambiguous", "clarifications": ["What programming language should be used for converting the string to uppercase?"], "timestamp": "2025-09-15T11:49:01.396158"}
+{"prompt": "Write factorial but forget the return", "status": "ambiguous", "clarifications": ["What do you mean by \"forget the return\"? Are you asking for a function that calculates the factorial but does not return the value, or are you looking for a way to print the factorial instead? Additionally, should the function handle any specific input cases, such as negative numbers or non-integer values?"], "timestamp": "2025-09-15T11:49:17.374452"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data are you referring to (e.g., numbers, strings, objects)? What is the expected output format? Are there any specific sorting criteria or algorithms you would like to use?"], "timestamp": "2025-09-15T11:49:34.079711"}
+{"prompt": "Raise a number to a power", "status": "ambiguous", "clarifications": ["What number do you want to raise to a power, and what is the power you want to use?"], "timestamp": "2025-09-15T11:49:40.682786"}
+{"prompt": "Check if two strings are anagrams", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:49:44.643597"}
+{"prompt": "Make a broken function without colon", "status": "ambiguous", "clarifications": ["What do you mean by \"broken function\"? Are you looking for a function that has a specific error or bug, or do you want a function that doesn't compile or run correctly? Additionally, could you clarify what you mean by \"without colon\"? Are you referring to the syntax of the function definition in a specific programming language?"], "timestamp": "2025-09-15T11:49:49.230304"}
+{"prompt": "Write a function to calculate square root", "status": "ambiguous", "clarifications": ["What type of input will the function accept (e.g., integer, float)? Should the function handle negative numbers, and if so, how? Do you want the result to be a specific precision (number of decimal places)? Should the function return an error message or raise an exception for invalid inputs?"], "timestamp": "2025-09-15T11:50:02.027747"}
+{"prompt": "Find common elements between two lists", "status": "ambiguous", "clarifications": ["What are the data types of the elements in the lists? Are the lists guaranteed to contain only unique elements, or can they have duplicates? Should the output be a list of unique common elements, or can it include duplicates as well?"], "timestamp": "2025-09-15T11:50:08.216278"}
+{"prompt": "Calculate the sum of a list of numbers", "status": "ambiguous", "clarifications": ["What type of list of numbers are you referring to? Are they integers, floats, or a mix? Additionally, do you want the sum to be calculated in a specific programming language?"], "timestamp": "2025-09-15T11:50:12.782592"}
+{"prompt": "Pop an element from a stack", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:50:16.094279"}
+{"prompt": "Generate Fibonacci sequence", "status": "ambiguous", "clarifications": ["What is the desired length of the Fibonacci sequence you would like to generate? Should the sequence start from 0 or 1?"], "timestamp": "2025-09-15T11:50:18.875576"}
+{"prompt": "Make a broken function without colon", "status": "ambiguous", "clarifications": ["What do you mean by \"broken function\"? Are you looking for a function that has syntax errors, logical errors, or both? Additionally, could you clarify what programming language you are referring to?"], "timestamp": "2025-09-15T11:55:29.656275"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:55:43.479849"}
+{"prompt": "Find common elements between two lists", "status": "ambiguous", "clarifications": ["What are the data types of the elements in the lists? Are the lists guaranteed to contain only unique elements, or can they have duplicates? Should the output be a list of unique common elements, or can it include duplicates as well?"], "timestamp": "2025-09-15T11:55:47.973694"}
+{"prompt": "Append text to a file", "status": "ambiguous", "clarifications": ["What specific text do you want to append to the file? Additionally, what is the name of the file you want to modify, and what programming language are you using?"], "timestamp": "2025-09-15T11:55:53.114344"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What type of results are you looking to save (e.g., text, JSON, CSV)?", "What programming language should the function be written in?", "What should the file name be, or should it be passed as a parameter?", "Should the function handle file overwriting, or should it append to the file?", "What format should the saved results be in?", "Are there any specific error handling requirements?"], "timestamp": "2025-09-15T11:55:59.183377"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:56:12.345463"}
+{"prompt": "Convert a string to uppercase", "status": "ambiguous", "clarifications": ["What programming language should be used for converting the string to uppercase?"], "timestamp": "2025-09-15T11:56:15.268515"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["What type of data will be used for training the classifier (e.g., emails, messages, etc.)? What programming language or framework do you prefer for building the classifier? Are there specific features or algorithms you want to use? What performance metrics are you interested in for evaluating the classifier?"], "timestamp": "2025-09-15T11:56:19.595283"}
+{"prompt": "Compute factorial of a number", "status": "ambiguous", "clarifications": ["What is the range of numbers for which you want to compute the factorial? Should the input be a non-negative integer?"], "timestamp": "2025-09-15T11:56:31.720251"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:59:04.612589"}
+{"prompt": "Check if a number is even or odd", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:59:07.161921"}
+{"prompt": "Push an element to a stack", "status": "ambiguous", "clarifications": ["What type of stack are you referring to (e.g., array-based, linked list-based)? What programming language should the implementation be in? Should the function return any value or just modify the stack?"], "timestamp": "2025-09-15T11:59:18.246977"}
+{"prompt": "Capitalize the first letter of each word in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:59:23.194258"}
+{"prompt": "Flatten a nested list", "status": "ambiguous", "clarifications": ["What is the expected output format for the flattened list? Should it be a single list or a specific data structure? Additionally, are there any constraints on the types of elements in the nested list (e.g., only integers, strings, etc.)?"], "timestamp": "2025-09-15T11:59:29.358217"}
+{"prompt": "Write a function to save results to a file", "status": "ambiguous", "clarifications": ["What type of results are you looking to save (e.g., text, JSON, CSV)?", "What programming language should the function be written in?", "What should the file name be, or should it be passed as a parameter?", "Should the function handle file overwriting, or should it append to the file?", "What format should the saved results be in?", "Are there any specific error handling requirements?"], "timestamp": "2025-09-15T11:59:34.627135"}
+{"prompt": "Check if two strings are anagrams", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:59:43.530059"}
+{"prompt": "Convert a string to lowercase", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T11:59:48.456558"}
+{"prompt": "Reverse a given string", "status": "ambiguous", "clarifications": ["What is the expected input for the string? Should it be a single line of text, or can it include multiple lines? Additionally, should the output be returned as a new string, or should it modify the original string in place?"], "timestamp": "2025-09-15T12:03:08.130731"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data are you referring to (e.g., numbers, strings, objects)? What is the size of the data set? Are there any specific sorting criteria or algorithms you would like to use?"], "timestamp": "2025-09-15T12:03:13.323759"}
+{"prompt": "Write a function to compress data", "status": "ambiguous", "clarifications": ["What type of data are you looking to compress (e.g., text, images, binary files)? What compression algorithm or method do you want to use (e.g., gzip, zlib, custom algorithm)? Should the function return the compressed data in a specific format?"], "timestamp": "2025-09-15T12:03:24.470070"}
+{"prompt": "Generate Fibonacci sequence", "status": "ambiguous", "clarifications": ["What is the desired length of the Fibonacci sequence you would like to generate? Should the sequence start from 0 or 1?"], "timestamp": "2025-09-15T12:03:31.377360"}
+{"prompt": "Append text to a file", "status": "ambiguous", "clarifications": ["What specific text do you want to append to the file? Additionally, what is the name of the file you want to modify, and what programming language are you using?"], "timestamp": "2025-09-15T12:03:36.837581"}
+{"prompt": "Write factorial but forget the return", "status": "ambiguous", "clarifications": ["What do you mean by \"forget the return\"? Are you asking for a function that calculates the factorial but does not return the value, or are you looking for a way to print the factorial instead? Additionally, should the function handle edge cases like negative numbers or zero?"], "timestamp": "2025-09-15T12:03:41.496459"}
+{"prompt": "Check if a number is even or odd", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:03:45.850004"}
+{"prompt": "Compute factorial of a number", "status": "ambiguous", "clarifications": ["What is the range of numbers for which you want to compute the factorial? Should the input be a non-negative integer?"], "timestamp": "2025-09-15T12:03:50.136233"}
+{"prompt": "Check if two strings are anagrams", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:03:57.767496"}
+{"prompt": "Make a broken function without colon", "status": "ambiguous", "clarifications": ["What do you mean by \"broken function\"? Are you looking for a function that has syntax errors, logical errors, or something else? Additionally, could you clarify what you mean by \"without colon\"? Are you referring to the absence of colons in the function definition or in the entire code?"], "timestamp": "2025-09-15T12:04:01.690950"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:04:49.587034"}
+{"prompt": "Compute factorial of a number", "status": "ambiguous", "clarifications": ["What is the range of numbers for which you want to compute the factorial? Should the input be a non-negative integer?"], "timestamp": "2025-09-15T12:04:52.084856"}
+{"prompt": "Read contents of a file", "status": "ambiguous", "clarifications": ["What type of file do you want to read (e.g., text, CSV, JSON)? What programming language should be used for this task? Do you need to handle any specific exceptions or errors while reading the file?"], "timestamp": "2025-09-15T12:05:05.249875"}
+{"prompt": "Write factorial but forget the return", "status": "ambiguous", "clarifications": ["What do you mean by \"forget the return\"? Are you asking for a function that calculates the factorial but does not return the value, or are you looking for a way to print the factorial instead? Additionally, should the function handle edge cases like negative numbers or zero?"], "timestamp": "2025-09-15T12:05:16.954376"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:05:47.806165"}
+{"prompt": "Convert a string to lowercase", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:05:47.821388"}
+{"prompt": "Check if a number is prime", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:05:47.821388"}
+{"prompt": "Read contents of a file", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:05:47.821388"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:05:47.837029"}
+{"prompt": "Capitalize the first letter of each word in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:05:47.837029"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-15T12:05:47.852638"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:05:53.285261"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-15T12:05:53.285261"}
+{"prompt": "Find the lcm of two values", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:05:57.410742"}
+{"prompt": "Check if a string is palindrome", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:05:57.410742"}
+{"prompt": "Build a classifier for spam detection", "status": "ambiguous", "clarifications": ["Which classification algorithm should I use (SVM, Random Forest, Logistic Regression)?"], "timestamp": "2025-09-15T12:05:57.410742"}
+{"prompt": "Calculate the sum of a list of numbers", "status": "ambiguous", "clarifications": ["What type of list of numbers are you referring to? Are they integers, floats, or a mix? Additionally, do you want the sum to be calculated in a specific programming language?"], "timestamp": "2025-09-15T12:13:07.613511"}
+{"prompt": "Compute factorial of a number", "status": "ambiguous", "clarifications": ["What is the range of numbers for which you want to compute the factorial? Should the input be a non-negative integer?"], "timestamp": "2025-09-15T12:13:26.905364"}
+{"prompt": "Count the number of words in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:13:56.322497"}
+{"prompt": "Write factorial but forget the return", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:13:56.326512"}
+{"prompt": "Generate Fibonacci sequence", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:13:56.326512"}
+{"prompt": "Write a function to compress data", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:13:56.326512"}
+{"prompt": "Count vowels in a string", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T12:13:56.342153"}
+{"prompt": "Sort the data efficiently", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-15T12:13:56.342153"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:26:49.065102"}
+{"prompt": "Print current working directory.", "status": "ambiguous", "clarifications": ["Do you want the current working directory or to change it?"], "timestamp": "2025-09-15T20:26:49.111935"}
+{"prompt": "Check if 29 is prime.", "status": "ambiguous", "clarifications": ["Check primality for a single number or a range of numbers?"], "timestamp": "2025-09-15T20:27:14.331481"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What phone number format should I expect?"], "timestamp": "2025-09-15T20:27:28.966250"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:27:42.956445"}
+{"prompt": "Check if 29 is prime.", "status": "ambiguous", "clarifications": ["Check primality for a single number or a range of numbers?"], "timestamp": "2025-09-15T20:38:36.381205"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-15T20:38:49.608282"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "ambiguous", "clarifications": ["Which word should I replace, and with what?"], "timestamp": "2025-09-15T20:38:59.533624"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:41:04.449518"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["Which database and table should I use?"], "timestamp": "2025-09-15T20:41:04.455071"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-15T20:41:18.265289"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-15T20:41:25.577411"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-15T20:41:29.736849"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "ambiguous", "clarifications": ["Do you want first n terms or up to a maximum value?"], "timestamp": "2025-09-15T20:41:32.361211"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What phone number format should I expect?"], "timestamp": "2025-09-15T20:41:35.302797"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:41:41.655074"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:41:41.655074"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["Which game do you want to build (chess, tic-tac-toe, etc.)?"], "timestamp": "2025-09-15T20:41:41.666598"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:45:36.590354"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-15T20:45:36.595420"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:45:41.395654"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:45:41.395654"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:45:41.405431"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-15T20:45:41.406745"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:45:48.015483"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-15T20:45:48.019674"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:45:57.225304"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:45:57.239201"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:46:03.297260"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What do you mean by \"root-left-right\"? Are you asking for the depth of the binary tree starting from the root and traversing the left subtree first, then the right subtree? Additionally, do you want the depth to be defined as the number of nodes along the longest path from the root to a leaf, or is there a different definition you have in mind?"], "timestamp": "2025-09-15T20:46:06.967890"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:46:30.435801"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What programming language should be used for parsing the JSON and printing the keys?"], "timestamp": "2025-09-15T20:46:32.208771"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What is the structure of the users table? Specifically, what are the column names and data types? Additionally, should the insertion be done using a specific programming language or database query language (e.g., SQL)?"], "timestamp": "2025-09-15T20:46:48.836641"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:47:13.827075"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time are you referring to? Should it be the current date/time or a specific date/time provided by the user?"], "timestamp": "2025-09-15T20:47:16.407609"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language should be used to measure the time? Additionally, do you want the time measured for the entire loop execution or for each iteration?"], "timestamp": "2025-09-15T20:47:26.326505"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:47:44.522515"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What format should the extracted phone number be in? Should it include the parentheses, dashes, or spaces?"], "timestamp": "2025-09-15T20:47:46.800053"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:48:08.980993"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["1. What specific programming language should be used for the implementation?", "2. Should the function return the depth as an integer, or is there a specific format required for the output?", "3. Are there any constraints on the binary tree (e.g., should it handle null nodes, or is it guaranteed to be non-empty)?", "4. Should the depth be calculated based on the number of nodes or the number of edges?", "5. Is there a specific method or algorithm you would like to use for calculating the depth (e.g., recursive or iterative)?"], "timestamp": "2025-09-15T20:48:13.648236"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:48:37.895931"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What programming language should be used for parsing the JSON and printing the keys?"], "timestamp": "2025-09-15T20:48:38.696172"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What is the structure of the users table? Specifically, what are the column names and data types? Additionally, should the insertion be done using a specific programming language or database query language?"], "timestamp": "2025-09-15T20:50:05.369751"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:50:14.603975"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time are you referring to? Should it be the current date/time or a specific date/time provided by the user?"], "timestamp": "2025-09-15T20:50:15.752581"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What programming language should be used to measure the time? Additionally, do you want the time measured for a specific type of loop (e.g., for loop, while loop), and should the output be displayed in a specific format (e.g., seconds, milliseconds)?"], "timestamp": "2025-09-15T20:50:22.962266"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:50:32.848952"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What format should the extracted phone number be in? Should it include the parentheses, dashes, or spaces?"], "timestamp": "2025-09-15T20:50:36.824666"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:53:18.589956"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-15T20:53:18.595967"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:53:21.561159"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:53:21.564671"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:53:21.568101"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-15T20:53:21.571101"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:53:24.791720"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-15T20:53:24.795826"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:53:28.840292"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:53:28.846812"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:53:34.780033"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What do you mean by \"root-left-right\"? Are you asking for the depth of the binary tree using a specific traversal method, or do you want the depth of the tree starting from the root node and considering the left and right subtrees? Additionally, should the depth be calculated as the number of nodes or the number of edges?"], "timestamp": "2025-09-15T20:53:39.147776"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:53:57.664000"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What programming language should be used for parsing the JSON and printing the keys?"], "timestamp": "2025-09-15T20:53:59.812216"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What is the structure of the users table? Specifically, what are the column names and data types? Additionally, should the insertion be done using a specific programming language or database query language (e.g., SQL)?"], "timestamp": "2025-09-15T20:54:07.258124"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:56:37.535756"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time are you referring to? Should it be the current date/time or a specific date/time provided by the user?"], "timestamp": "2025-09-15T20:56:39.476526"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language should be used to measure the time? Additionally, do you want the time measured for the entire loop execution or for each iteration?"], "timestamp": "2025-09-15T20:56:45.296731"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:56:57.340788"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What format should the extracted phone number be in? Should it include the parentheses, dashes, or spaces?"], "timestamp": "2025-09-15T20:57:00.028039"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:57:08.731968"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What do you mean by \"root-left-right\"? Are you asking for the depth of the binary tree using a specific traversal method, or do you want the depth of the tree based on its structure? Additionally, should the depth be calculated in terms of the number of nodes or the number of edges?"], "timestamp": "2025-09-15T20:57:12.578048"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:57:23.739494"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What programming language should be used for parsing the JSON and printing the keys?"], "timestamp": "2025-09-15T20:57:24.726558"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What is the structure of the users table? Specifically, what are the column names and data types? Additionally, should the value 'Alice' be inserted as a string or is there a specific format required for the data?"], "timestamp": "2025-09-15T20:57:29.808501"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:57:37.796673"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific programming language should be used for printing the date/time? Additionally, do you want the current date/time or a specific date/time?"], "timestamp": "2025-09-15T20:57:39.115835"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language should be used to measure the time? Additionally, do you want the time measured for the entire loop execution or for each iteration?"], "timestamp": "2025-09-15T20:57:48.697630"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T20:57:53.496514"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What format should the extracted phone number be in? Should it include the parentheses, dashes, or any other specific formatting?"], "timestamp": "2025-09-15T20:57:57.670781"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["Could you please clarify the following:", "1. What type of dataset do you want to use for training the CNN?", "2. What specific architecture or model do you have in mind for the CNN?", "3. Are there any specific hyperparameters (like learning rate, batch size, number of epochs) you want to set?", "4. Do you need any specific preprocessing steps for the data?", "5. What kind of output or evaluation metrics are you looking for after training?", "These details will help in providing a more accurate response."], "timestamp": "2025-09-15T21:12:22.387771"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:14:03.147230"}
+{"prompt": "Count lines in story.txt.", "status": "ambiguous", "clarifications": ["What specific criteria should be used to count the lines? Should it include all lines, or only non-empty lines?"], "timestamp": "2025-09-15T21:14:05.697808"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:14:19.610070"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "ambiguous", "clarifications": ["What is the starting node for the BFS traversal? Additionally, do you want the output to be a list of nodes in the order they are visited, or do you need a different format?"], "timestamp": "2025-09-15T21:14:23.078184"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:14:47.019141"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific features or behaviors do you want the Queue class to have? For example, should it handle exceptions for underflow/overflow, or do you have a specific maximum size in mind?"], "timestamp": "2025-09-15T21:14:49.840704"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What criteria should be used to determine if the email 'test@mail.com' is valid? For example, do you want to check for a specific format, domain existence, or something else?"], "timestamp": "2025-09-15T21:16:21.763796"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "ambiguous", "clarifications": ["What format are the contents of a.txt and b.txt? Are they plain text, CSV, or something else? Additionally, how do you want the merging to be done (e.g., line by line, concatenating the entire content, etc.)?"], "timestamp": "2025-09-15T21:16:38.704363"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:00.081123"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-15T21:26:00.112376"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:05.512756"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:05.512756"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:05.528354"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-15T21:26:05.528354"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:08.372102"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-15T21:26:08.372102"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:11.968032"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:11.999302"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:17.932336"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What do you mean by \"root-left-right\"? Are you asking for the depth of the binary tree using a specific traversal method, or do you want the depth of the tree itself? Additionally, should the function return the depth as an integer?"], "timestamp": "2025-09-15T21:26:21.073389"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:30.076880"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in? Should they be printed as a list, one per line, or in some other format?"], "timestamp": "2025-09-15T21:26:32.250181"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What are the names of the columns in the users table where you want to insert the values? Additionally, do you want to specify any other fields or constraints for this insertion?"], "timestamp": "2025-09-15T21:26:39.426086"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:26:46.987565"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time are you referring to? Should it be the current date/time or a specific date/time provided by the user?"], "timestamp": "2025-09-15T21:26:48.993680"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific type of loop do you want to measure (e.g., a for loop, while loop)? Additionally, do you want to measure the time for a specific operation within the loop, or just the loop itself?"], "timestamp": "2025-09-15T21:27:01.316280"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:27:05.864315"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What format should the phone number be extracted in? Should it include the parentheses, dashes, or spaces? Additionally, should the extraction handle multiple phone numbers in the text?"], "timestamp": "2025-09-15T21:27:08.427517"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:27:18.050592"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["The prompt is ambiguous. Here are some clarification questions:", "1. What is the definition of \"depth\" you are referring to? Are you looking for the maximum depth, minimum depth, or the depth of a specific node?", "2. Should the function return the depth of the entire tree or just the depth of the left or right subtree?", "3. Do you have a specific binary tree structure in mind, or should I assume a standard binary tree implementation?", "4. Should the function handle edge cases, such as an empty tree?", "Please provide clarification on these points."], "timestamp": "2025-09-15T21:27:20.316251"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:27:29.944231"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in? Should they be printed as a list, a string, or in some other format?"], "timestamp": "2025-09-15T21:27:30.819235"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What are the names of the columns in the users table where you want to insert the values? Additionally, do you want to specify any particular database or ORM to use for this operation?"], "timestamp": "2025-09-15T21:27:34.037984"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:27:36.571464"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time are you referring to? Should it be the current date/time or a specific date/time provided by the user?"], "timestamp": "2025-09-15T21:27:37.680824"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific type of loop do you want to measure (e.g., a for loop, while loop)? Additionally, do you want to measure the time for a specific operation within the loop, or just the loop itself?"], "timestamp": "2025-09-15T21:27:40.745862"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:27:42.981340"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What format should the text be in? Are there any specific requirements for how the phone number should be extracted (e.g., should it be returned as a string, or in a specific data structure)?"], "timestamp": "2025-09-15T21:27:46.326173"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:28:40.346085"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-15T21:28:40.346085"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:28:49.234729"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:28:49.241988"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:28:49.247988"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-15T21:28:49.254990"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:28:50.599046"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-15T21:28:50.599046"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:28:51.363360"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:28:51.363360"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:28:57.942013"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["The prompt is ambiguous. Here are some clarification questions:", "1. What is the definition of \"depth\" you are referring to? Are you looking for the maximum depth, minimum depth, or the depth of a specific node?", "2. Should the function return the depth of the entire tree or just the depth of a specific node?", "3. Can you provide an example of the binary tree structure you are working with?", "4. Are there any specific constraints or requirements for the implementation?", "Please provide more details."], "timestamp": "2025-09-15T21:29:03.367688"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:29:18.357204"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What do you mean by \"print keys\"? Do you want to print the keys as a list, or do you want to print each key on a new line? Additionally, should the output be formatted in any specific way?"], "timestamp": "2025-09-15T21:29:20.656093"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What is the structure of the 'users' table? Specifically, what are the column names and their data types? Additionally, should the insertion be done using a specific database library (e.g., SQLite, SQLAlchemy)?"], "timestamp": "2025-09-15T21:29:24.735019"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:29:28.907877"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time are you referring to? Should it be the current date/time or a specific date/time provided by the user?"], "timestamp": "2025-09-15T21:29:31.346235"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific type of loop do you want to measure (e.g., a for loop, while loop)? Additionally, do you want to measure the time for a specific operation within the loop, or just the loop itself?"], "timestamp": "2025-09-15T21:29:34.972110"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:29:38.190906"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What format should the text be in? Are there any specific requirements for how the phone number should be extracted (e.g., should it be returned as a string, or in a specific data structure)?"], "timestamp": "2025-09-15T21:29:40.739340"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:29:48.786647"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What do you mean by \"root-left-right\"? Are you asking for a function that calculates the depth of a binary tree using a specific traversal method, or do you want the depth of the tree based on its structure? Additionally, should the function return the depth as an integer?"], "timestamp": "2025-09-15T21:29:50.192894"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:29:50.865188"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What do you mean by \"print keys\"? Do you want to print the keys as a list, or do you want to print each key on a new line? Additionally, should the output be formatted in any specific way?"], "timestamp": "2025-09-15T21:29:52.255410"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What are the names of the columns in the users table where you want to insert the values? Additionally, do you want to specify any other fields or constraints for this insertion?"], "timestamp": "2025-09-15T21:29:56.105242"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:29:59.044283"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time are you referring to? Should it be the current date/time or a specific date/time provided by the user?"], "timestamp": "2025-09-15T21:30:00.137603"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific type of loop do you want to measure (e.g., a for loop, while loop)? Additionally, do you want to measure the time for a specific operation within the loop, or just the loop itself?"], "timestamp": "2025-09-15T21:30:03.532851"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T21:30:05.394222"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "ambiguous", "clarifications": ["What format should the text be in? Are there any specific requirements for how the phone number should be extracted (e.g., should it be returned as a string, or in a specific data structure)?"], "timestamp": "2025-09-15T21:30:08.772750"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T22:19:18.899526"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T22:19:19.753804"}
+{"prompt": "Delete temp.txt from folder.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T22:19:19.753804"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "ambiguous", "clarifications": ["Do you want word frequency or character frequency?"], "timestamp": "2025-09-15T22:19:19.769453"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T22:19:23.709910"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T22:19:23.709910"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "ambiguous", "clarifications": ["Should I implement factorial iteratively or recursively?"], "timestamp": "2025-09-15T22:19:23.725527"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-15T22:19:25.162129"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T22:19:26.477826"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-15T22:19:26.477826"}

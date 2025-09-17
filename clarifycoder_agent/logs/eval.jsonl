@@ -1,0 +1,117 @@
+{"prompt": "Implement stack class with push/pop.", "function": "stack_push", "status": "pass", "details": "All 1 test cases passed", "timestamp": "2025-09-16T21:17:57.481865"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:17:57.497478"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:17:57.497478"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-16T21:17:57.497478"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:17:57.497478"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:17:57.528726"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:17:57.528726"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": null, "status": "pass", "details": "pass\n\nthe code correctly generates the first 10 numbers in the fibonacci sequence (including 0 and 1) and prints them. the loop runs 8 times, which is appropriate since the initial list already contains the first two numbers.", "timestamp": "2025-09-16T21:19:42.966310"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:19:47.894828"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:19:52.028084"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "fail", "details": "fail\n\nthe code attempts to create a list of 100 million zeros, which may lead to a memoryerror on systems with limited memory. it does not handle potential memory issues or provide any context for its use.", "timestamp": "2025-09-16T21:19:56.333561"}
+{"prompt": "Compute factorial(10000).", "function": null, "status": "fail", "details": "fail\n\nthe code attempts to calculate the factorial of 10,000, which is an extremely large number and may lead to performance issues or memory errors. while python can handle large integers, calculating such a large factorial is impractical and not typically useful.", "timestamp": "2025-09-16T21:20:06.788268"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:20:17.079246"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:26:36.837671"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:26:41.745326"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "pass", "details": "pass\n\nthe code correctly transposes a 2d list (matrix) using the `zip` function and `map`. the `zip(*...)` effectively groups the elements of the inner lists by their index, and `map(list, ...)` converts the tuples returned by `zip` back into lists. the result is a transposed version of the original matrix.", "timestamp": "2025-09-16T21:29:34.861410"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "fail", "details": "fail\n\nthe code attempts to insert a document into a mongodb collection, but it does not handle potential exceptions that may arise during the database operation, such as connection errors or duplicate key errors. additionally, it uses a hardcoded database name ('your_database_name') which should be replaced with an actual database name for the code to function correctly.", "timestamp": "2025-09-16T21:29:48.380910"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:29:57.596060"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:30:00.661089"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-16T21:30:07.690501"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:30:31.086135"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:30:34.772905"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:30:39.065440"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-16T21:30:42.146923"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "fail", "details": "fail\n\nthe code attempts to make a get request to 'http://example.com' with an 'auth' header, but it does not handle potential errors or check the response status. it also uses a non-standard header name ('auth') instead of a more common one like 'authorization'. proper error handling and a standard header would improve the code.", "timestamp": "2025-09-16T21:30:49.058168"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:34:04.172710"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:37:04.580230"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:37:23.375298"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:26.908157"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:26.908157"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:26.908157"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:26.908157"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:37:27.972204"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:37:27.972204"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:37:28.737728"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-16T21:37:28.737728"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:28.737728"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:31.274796"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:31.290402"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:31.290402"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:31.290402"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:31.290402"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:34.121171"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:35.652404"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:37:37.340943"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:37:37.340943"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:37:37.340943"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:39.991548"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:39.991548"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:40.007199"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:40.007199"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:37:42.572246"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:42.572246"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:43.322645"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-16T21:37:43.322645"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:43.337844"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:37:43.337844"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:37:51.009342"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:37:56.529844"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:37:58.375177"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:38:02.834593"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-16T21:38:08.979278"}
+{"prompt": "Check if 'madam' is palindrome.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:38:10.980880"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:38:15.125236"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:38:18.659684"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:38:21.567386"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:38:25.567384"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": "regex", "status": "pass", "details": "Regex pattern usage detected", "timestamp": "2025-09-16T21:38:34.017302"}
+{"prompt": "Run 'echo hello'.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:38:36.175650"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:38:46.557463"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:38:49.830021"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:38:55.061983"}
+{"prompt": "Create table employees(id,name).", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-16T21:39:00.125193"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:39:03.047382"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-16T21:39:03.814168"}
+{"prompt": "Find gcd of 48 and 18.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:39:05.503925"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:39:07.256462"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:39:21.480114"}
+{"prompt": "Check 'test@mail.com' valid.", "function": "regex", "status": "pass", "details": "Regex pattern usage detected", "timestamp": "2025-09-16T21:39:26.999856"}
+{"prompt": "Create folder 'backup'.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:39:33.774120"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:39:36.838103"}
+{"prompt": "Reverse characters of 'hello'.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:39:39.605694"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": "networking", "status": "pass", "details": "Networking code detected", "timestamp": "2025-09-16T21:39:43.750200"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": "networking", "status": "pass", "details": "Networking code detected", "timestamp": "2025-09-16T21:39:47.284280"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:39:49.585028"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-16T21:39:51.429720"}
+{"prompt": "Check if notes.txt exists.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:39:56.197954"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:40:01.588342"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:04.339442"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:05.262368"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:07.404518"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:09.561906"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:40:10.640029"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:40:13.084895"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:40:15.084896"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-16T21:40:16.006747"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:20.011092"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:25.702510"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:26.611928"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:29.989203"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:31.367562"}
+{"prompt": "Append 'error' to log.txt.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:40:33.679641"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:36.136914"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:37.201358"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:40:38.138858"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:40:39.048099"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-16T21:40:39.971836"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:46.727150"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:48.733090"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:49.799080"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:51.330331"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-16T21:40:52.564707"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:55.018983"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:40:57.019391"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-16T21:40:59.163160"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:41:02.698571"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:41:05.310782"}

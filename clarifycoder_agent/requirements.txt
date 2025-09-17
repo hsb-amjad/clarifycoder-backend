@@ -1,0 +1,7 @@
+openai
+rich
+pytest
+matplotlib
+pandas
+openpyxl
+streamlit
