@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: agentic_clarifycoder
+Version: 0.1.0
+Summary: ClarifyCoder multi-agent framework
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: colorama
+Requires-Dist: streamlit
+Requires-Dist: pytest

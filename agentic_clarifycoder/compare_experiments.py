@@ -10,7 +10,7 @@ Also generates bar charts, trend plots, and exports results for papers.
 Usage:
     python compare_experiments.py --n_prompts 10 --runs 3 --answer_mode auto
     python compare_experiments.py --n_prompts 10 --runs 3 --answer_mode human
-    -> run from root clarifycoder-agent
+    -> run from root agentic_clarifycoder
 """
 
 import argparse
@@ -27,7 +27,7 @@ from rich.table import Table
 import pandas as pd
 
 
-DEMO_MODULE = "clarifycoder_agent.demo.demo"
+DEMO_MODULE = "agentic_clarifycoder.core.demo.demo"
 
 
 def run_mode(mode_name: str, n_prompts: int, seed: int, run_id: int, answer_mode: str):

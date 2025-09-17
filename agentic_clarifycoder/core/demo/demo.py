@@ -5,9 +5,9 @@ ClarifyCoder-Agent Demo
 Run the ClarifyCoder multi-agent system with baseline or LLM agents.
 
 Usage:
-    python -m clarifycoder_agent.demo.demo --clarify_mode baseline --code_mode baseline --eval_mode baseline --refine_mode baseline --answer_mode human
-    python -m clarifycoder_agent.demo.demo --clarify_mode llm --code_mode llm --eval_mode llm --refine_mode llm --answer_mode human
-    -> run from root clarifycoder-agent
+    python -m agentic_clarifycoder.core.demo.demo --clarify_mode baseline --code_mode baseline --eval_mode baseline --refine_mode baseline --answer_mode human
+    python -m agentic_clarifycoder.core.demo.demo --clarify_mode llm --code_mode llm --eval_mode llm --refine_mode llm --answer_mode human
+    -> run from root clarifycoder-backend
 
 Extra args:
     --num_prompts  N   Number of prompts to sample (default: random 5–10)

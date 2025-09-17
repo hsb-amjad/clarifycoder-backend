@@ -7,7 +7,7 @@ from pydantic import BaseModel
 from typing import List, Optional
 from fastapi.middleware.cors import CORSMiddleware
 
-from clarifycoder_agent.agents.runner import run_clarifycoder
+from agentic_clarifycoder.core.runner import run_clarifycoder
 
 app = FastAPI(title="ClarifyCoder API")
 
