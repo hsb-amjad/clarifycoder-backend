@@ -4,3 +4,10 @@
 {"prompt": "Replace all digits in 'abc123' with '*'.", "clarified_prompt": "Replace all digits in 'abc123' with '*'.", "code": "# Code template not found for this task", "timestamp": "2025-09-17T21:54:56.628856"}
 {"prompt": "Remove vowels from 'education'.", "clarified_prompt": "Remove vowels from 'education'.", "code": "# Code template not found for this task", "timestamp": "2025-09-17T21:54:56.644479"}
 {"prompt": "Extract hashtags from 'Loving #python and #AI'.", "clarified_prompt": "Extract hashtags from 'Loving #python and #AI'.", "code": "# Code template not found for this task", "timestamp": "2025-09-17T21:54:56.644479"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "clarified_prompt": "Count sentences in 'Hello. How are you? Fine.'", "code": "# Code template not found for this task", "timestamp": "2025-09-21T07:29:32.549715"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "clarified_prompt": "Extract all integers from 'a1 b22 c333'.", "code": "# Code template not found for this task", "timestamp": "2025-09-21T07:29:32.580673"}
+{"prompt": "POST JSON {'id':1} to /api.", "clarified_prompt": "POST JSON {'id':1} to /api.", "code": "# Code template not found for this task", "timestamp": "2025-09-21T07:29:32.588179"}
+{"prompt": "Check if notes.txt exists.", "clarified_prompt": "Check if notes.txt exists.", "code": "# Code template not found for this task", "timestamp": "2025-09-21T07:29:32.595995"}
+{"prompt": "Find gcd of 48 and 18.", "clarified_prompt": "Find gcd of 48 and 18.", "code": "def gcd(a, b):\n    while b:\n        a, b = b, a % b\n    return a", "timestamp": "2025-09-21T07:29:32.618123"}
+{"prompt": "Create folder 'backup'.", "clarified_prompt": "Create folder 'backup'.", "code": "# Code template not found for this task", "timestamp": "2025-09-21T07:29:32.621306"}
+{"prompt": "Recursive call depth 2000.", "clarified_prompt": "Recursive call depth 2000.\nAnswer: max", "code": "# Code template not found for this task", "timestamp": "2025-09-21T07:29:38.281053"}

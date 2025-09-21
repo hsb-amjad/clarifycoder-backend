@@ -115,3 +115,1166 @@
 {"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-16T21:40:59.163160"}
 {"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:41:02.698571"}
 {"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-16T21:41:05.310782"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:16:32.183471"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:36.407138"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:36.508856"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:36.524489"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:36.524489"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:16:37.744677"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:16:37.744677"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:16:39.900264"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T11:16:39.904680"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:39.966504"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:43.363073"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:43.367057"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:43.372097"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:43.375347"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:43.378352"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:45.776533"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:16:46.723671"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:16:48.014634"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:16:48.014634"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:16:48.014634"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:16:56.940031"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:03.749979"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:05.605261"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:17:07.932903"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T11:17:10.719914"}
+{"prompt": "Check if 'madam' is palindrome.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:12.387666"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:17:14.750141"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:17:17.518043"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:19.761743"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:21.966595"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": "regex", "status": "pass", "details": "Regex pattern usage detected", "timestamp": "2025-09-20T11:17:31.756214"}
+{"prompt": "Run 'echo hello'.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:17:35.591803"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:47.543410"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:48.849532"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:51.308525"}
+{"prompt": "Create table employees(id,name).", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T11:17:54.481645"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:55.997039"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T11:17:56.617262"}
+{"prompt": "Find gcd of 48 and 18.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:17:58.184433"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:17:59.765491"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:18:04.621591"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:18:06.466155"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:18:09.664851"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:18:11.141422"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:18:12.323476"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:18:12.910145"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:18:14.541483"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:18:16.245727"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T11:18:16.794054"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:18:22.379900"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:19:31.276856"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:19:32.606008"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:19:39.855637"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:19:43.748142"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:19:49.797205"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:19:51.324359"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:22:19.533251"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:22:27.554656"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:22:32.821895"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:23:23.634508"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:23:30.636063"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:23:35.373642"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:26:42.779407"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "unsupported", "details": "Execution failed: invalid syntax (<string>, line 1)", "timestamp": "2025-09-20T11:26:51.205187"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:26:56.800683"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:30:39.374452"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:30:48.485800"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:30:53.424324"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:35:46.557946"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:35:54.687106"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:35:59.297545"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:37:54.227429"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:38:02.527903"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:38:07.529054"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:38:56.091773"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:38:58.312328"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:38:58.312328"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:39:05.458438"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T11:39:09.149094"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T11:39:10.836601"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:39:16.496068"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:39:18.138809"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:39:18.844314"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:40:45.259698"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:40:50.059266"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:40:50.059266"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:40:56.868709"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T11:41:00.504444"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T11:41:02.319074"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:41:07.899328"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:41:12.564930"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:41:13.080559"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:45:35.666002"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:45:37.572288"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:45:37.572288"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T11:45:46.328494"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T11:45:50.522734"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T11:45:52.351964"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:45:58.715230"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:46:00.466713"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:46:01.560493"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:57:10.280992"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:57:12.670297"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:57:12.685909"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T11:57:22.611710"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T11:57:27.112340"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T11:57:29.489442"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:57:38.023608"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:57:39.784478"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:57:41.149598"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:58:41.283817"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:44.527052"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:44.535053"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:44.542052"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:44.548229"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:58:45.312544"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:58:45.317360"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:58:46.279944"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T11:58:46.284944"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:46.291944"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:46.298950"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:46.304941"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:46.310945"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:58:46.318235"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:46.322231"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:46.328232"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:46.911017"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:46.945410"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:46.951405"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:47.653432"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:58:47.661851"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:47.666220"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:58:48.163417"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:48.167415"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:48.172418"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:48.178427"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:58:48.729419"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:48.733422"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:48.738660"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:49.392026"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:49.397838"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:49.402832"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T11:58:49.454594"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:49.458974"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:49.464979"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:49.468972"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:50.018821"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T11:58:50.661840"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:50.668828"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:58:50.675826"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:58:51.897401"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:51.901401"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:51.907758"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:51.913075"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:51.919058"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:52.407307"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:58:52.412301"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:52.416303"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:53.101291"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:53.107284"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:53.656578"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:53.663577"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:53.668575"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:58:54.285592"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:58:55.715229"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.730839"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.730839"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.730839"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.750778"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:58:55.757768"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.762072"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.769079"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.775077"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.781617"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.787641"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.792761"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:55.792761"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:58:56.992228"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T11:58:58.339802"}
+{"prompt": "Implement stack class with push/pop.", "function": "stack_push", "status": "pass", "details": "All 1 test cases passed", "timestamp": "2025-09-20T11:58:58.339802"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:01.778021"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:01.793648"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:01.793648"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:01.793648"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:01.812488"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:03.566838"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:04.191462"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:04.793678"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:04.793678"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:04.809280"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:04.809280"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:05.433726"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:05.433726"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:05.433726"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:06.090347"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.090347"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.090347"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.105981"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.887694"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.903688"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.903688"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.903688"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.922579"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.927576"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:06.934658"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:06.934658"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:07.981258"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:07.981258"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:08.746148"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:08.761736"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:08.761736"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:08.761736"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:08.761736"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:08.778669"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:09.280669"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:09.284668"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T11:59:10.769188"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:10.775197"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:10.778200"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T11:59:10.796485"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:10.800501"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:10.806483"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T11:59:10.812747"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:11.528295"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:12.207205"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:12.212219"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:12.216370"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:12.223371"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:12.230514"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:12.237515"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:12.771632"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:13.495739"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:13.515792"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:14.448677"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:14.464298"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:14.464298"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:14.479924"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:14.479924"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:14.479924"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:14.495547"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:15.105514"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:15.105514"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:15.795061"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:15.810109"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:15.842476"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:15.863046"}
+{"prompt": "Print value of PATH.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:15.872281"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:15.903521"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T11:59:16.637437"}
+{"prompt": "Implement stack class with push/pop.", "function": "stack_push", "status": "pass", "details": "All 1 test cases passed", "timestamp": "2025-09-20T11:59:16.637437"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:20.245964"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:20.261389"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:20.261389"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:20.276987"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:21.653585"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:21.653585"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:22.297119"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T11:59:22.302118"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:22.308200"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:22.308200"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:22.871759"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:23.463329"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:23.468614"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:24.105517"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:24.684218"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:25.512196"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:25.512196"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:25.512196"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:25.512196"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:25.527819"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:25.527819"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:25.527819"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.059117"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.059117"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.074716"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:26.074716"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.074716"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.090339"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.090339"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.105973"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.105973"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.124010"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.730195"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:26.745816"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:26.745816"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:27.435991"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:27.443993"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:27.451226"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:27.458202"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:27.996134"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:27.996134"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:29.527521"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:29.527521"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:29.527521"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:29.527521"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:29.543152"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:30.027015"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:30.042642"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:30.637826"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:30.637826"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:30.637826"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:31.199299"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:31.199299"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:31.199299"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:31.214899"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:31.214899"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:31.747142"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:31.762394"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T11:59:33.121966"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:33.121966"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:33.121966"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:33.137587"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:33.141785"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T11:59:33.151932"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:33.154916"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:33.159914"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:33.163914"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:33.167969"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:33.167969"}
+{"prompt": "Print value of PATH.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:33.167969"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:37.069641"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:38.471448"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:38.478458"}
+{"prompt": "Implement stack class with push/pop.", "function": "stack_push", "status": "pass", "details": "All 1 test cases passed", "timestamp": "2025-09-20T11:59:38.480543"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:38.480543"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:39.076073"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:39.076073"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:39.076073"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:39.933112"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:39.933112"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:39.933112"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:39.933112"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:40.449948"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:40.449948"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:40.449948"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:40.465577"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:40.465577"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:40.465577"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:40.481206"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:40.481206"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:41.043925"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:41.750361"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:41.755377"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:41.761363"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:41.765068"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:41.765068"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T11:59:42.371773"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:42.386923"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:42.386923"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:42.386923"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:42.386923"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:42.403765"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:42.407766"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:42.902879"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:42.918485"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:42.918485"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:42.918485"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:42.934110"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:43.622305"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:43.628301"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:43.633287"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:44.418970"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:44.418970"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:44.434209"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T11:59:44.434209"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T11:59:45.888920"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:46.511414"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:46.511414"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:47.277571"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:47.277571"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:47.277571"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:47.293193"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:47.934675"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:48.621309"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:48.639263"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:48.645282"}
+{"prompt": "Print value of PATH.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:48.651278"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:48.657546"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:49.188009"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:49.194010"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:49.199007"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:49.200058"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:49.200058"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:49.200058"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:49.215686"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:49.215686"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:49.215686"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:49.215686"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:50.371837"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:50.389760"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:53.464964"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:54.934814"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:54.934814"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:54.934814"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:54.950443"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:55.668152"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:55.683790"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:55.683790"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:55.683790"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:55.683790"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:55.699382"}
+{"prompt": "Print value of PATH.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:55.699382"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:55.699382"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:57.199950"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T11:59:57.683646"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:57.683646"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:57.699236"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:57.699236"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:57.699236"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:57.717227"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T11:59:57.734402"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:57.738407"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:57.744404"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:57.750862"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:58.309645"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:58.309645"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:58.324885"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:58.324885"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:58.340504"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T11:59:58.340504"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:58.340504"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:58.996025"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:59.011640"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T11:59:59.011640"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:59.011640"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T11:59:59.032632"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T12:00:00.284710"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:00.289697"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:00.294843"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:00:00.950006"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:00.965249"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:00.965249"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:00.965249"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:00:01.714726"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:00:01.714726"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:02.543786"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:02.559411"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:02.559411"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:02.575041"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:02.575041"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:02.575041"}
+{"prompt": "Implement stack class with push/pop.", "function": "stack_push", "status": "pass", "details": "All 1 test cases passed", "timestamp": "2025-09-20T12:00:02.590682"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:03.328438"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:00:03.933181"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:03.933181"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:03.933181"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T12:00:04.575404"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:00:05.199261"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:05.214874"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:05.214874"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:00:05.845933"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:06.481041"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:00:06.500099"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:06.505100"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:06.511208"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:00:06.511208"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:06.511208"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:06.526832"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:07.308291"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:00:08.011818"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:16.998279"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:22.214914"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:24.558696"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:28.087003"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:33.418160"}
+{"prompt": "Check if 'madam' is palindrome.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:35.809262"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:39.293163"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:44.591203"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:47.136293"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:00:52.403178"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:01:05.964195"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "fail", "details": "fail - the code is missing the full url for the post request; it only specifies a relative path.", "timestamp": "2025-09-20T12:01:09.750509"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:01:21.607295"}
+{"prompt": "List files in current directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:01:24.465222"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:01:30.826684"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T12:01:33.324646"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:01:39.808379"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "fail", "details": "fail - the code attempts to remove a file without checking if the directory 'temporary' exists or if 'temp.txt' exists, which could lead to a filenotfounderror.", "timestamp": "2025-09-20T12:01:48.683100"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:01:54.731490"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:01:58.637531"}
+{"prompt": "Find gcd of 48 and 18.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:00.997091"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:05.074377"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:07.652508"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:11.109161"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:13.605545"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:21.341021"}
+{"prompt": "Reverse characters of 'hello'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:23.418609"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:26.000080"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:31.333560"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:33.730686"}
+{"prompt": "Count rows in students table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:39.933199"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:43.198941"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:46.088525"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "fail", "details": "fail - the code does not correctly count sentences that end with both periods and question marks. it only counts sentences ending with periods and adds the count of question marks separately, which may lead to incorrect results if there are multiple sentences ending with question marks.", "timestamp": "2025-09-20T12:02:50.457245"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:02:58.464371"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:03:02.199990"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "fail", "details": "fail - the code does not handle potential errors or exceptions that may occur during the http request, such as connection errors or non-200 status codes.", "timestamp": "2025-09-20T12:03:06.058253"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:03:18.637668"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:03:23.964415"}
+{"prompt": "Compute factorial(10000).", "function": null, "status": "fail", "details": "fail - the code attempts to compute the factorial of 10,000, which is an extremely large number and may lead to memory errors or performance issues.", "timestamp": "2025-09-20T12:03:26.731454"}
+{"prompt": "GET with 5s timeout.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:03:33.881683"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:03:38.808919"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "fail", "details": "fail - the code uses `os.system` to execute a shell command, which is not a proper way to print output in python. it should use `print('hello')` instead.", "timestamp": "2025-09-20T12:03:41.777154"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:03:47.900295"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:03:52.231468"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:03:54.481047"}
+{"prompt": "Pause 2 seconds.", "function": null, "status": "fail", "details": "fail - the code only pauses execution for 2 seconds and does not solve any specific task or problem.", "timestamp": "2025-09-20T12:03:56.903416"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:01.761647"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:04.933585"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:07.121412"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "fail", "details": "fail - the code does not perform any operation or return a value; it only recursively calls itself until `n` reaches 0, which may lead to a stack overflow for large values of `n`.", "timestamp": "2025-09-20T12:04:12.121764"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:29.589985"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:33.324699"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:36.145090"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T12:04:36.652147"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:41.120728"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "fail", "details": "fail - the code attempts to make a get request to a relative url ('/users') without specifying a base url, which will result in an error.", "timestamp": "2025-09-20T12:04:45.152102"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:52.808489"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:55.417385"}
+{"prompt": "Print current working directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:04:57.715239"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:05:00.089329"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:05:04.703749"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:05:07.636751"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:05:10.302555"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:05:16.308111"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:05:19.980153"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:05:22.168550"}
+{"prompt": "Drop table logs.", "function": null, "status": "fail", "details": "fail - the code attempts to drop a table named 'logs' without any context or checks, which could lead to data loss if the table exists. it does not solve a specific task or provide any functionality.", "timestamp": "2025-09-20T12:05:26.574129"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:05:48.254149"}
+{"prompt": "Implement stack class with push/pop.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:05:54.980325"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:06:10.325177"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "fail", "details": "fail - the code uses `os.system` to execute a shell command, which is not a recommended practice for simply printing output in python. it does not directly solve a task related to python's functionality.", "timestamp": "2025-09-20T12:06:13.190378"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "fail", "details": "fail - the code does not initialize `self.last_move`, which will lead to an error when trying to access it in the `on_click` method.", "timestamp": "2025-09-20T12:06:31.118742"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:06:46.339358"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:06:49.467090"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:06:53.302897"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:06:55.403524"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T12:06:56.089675"}
+{"prompt": "Find gcd of 48 and 18.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:06:59.981256"}
+{"prompt": "Print current working directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:02.027834"}
+{"prompt": "Compute factorial(10000).", "function": null, "status": "fail", "details": "fail - the code attempts to compute the factorial of 10,000, which is an extremely large number and may lead to memory errors or performance issues.", "timestamp": "2025-09-20T12:07:04.899778"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:12.089921"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:14.527231"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:18.636498"}
+{"prompt": "Reverse characters of 'hello'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:20.839495"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:25.058411"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:26.926835"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:31.434263"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:34.152856"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T12:07:35.668603"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:44.574626"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:47.327055"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "fail", "details": "fail - the code attempts to create a list of size 100 million, which may exceed memory limits and cause a memoryerror in many environments.", "timestamp": "2025-09-20T12:07:50.943586"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:57.167678"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:07:59.933490"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:02.277695"}
+{"prompt": "GET with 5s timeout.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:07.984387"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:11.282252"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:14.825827"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:17.902750"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:22.338517"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:24.740986"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "fail", "details": "fail - the code is missing a base url for the post request, which will result in an error when trying to send the request.", "timestamp": "2025-09-20T12:08:28.277639"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:34.730502"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:37.418110"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:39.950644"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:51.621862"}
+{"prompt": "List files in current directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:08:54.230991"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "fail", "details": "fail - the code incorrectly counts sentences by only considering periods and question marks, but it does not account for exclamation marks or other sentence-ending punctuation.", "timestamp": "2025-09-20T12:08:57.433481"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:01.996136"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:04.825743"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:07.965728"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:10.216289"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:12.606260"}
+{"prompt": "Check if 'madam' is palindrome.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:14.747146"}
+{"prompt": "Pause 2 seconds.", "function": null, "status": "fail", "details": "fail - the code only pauses execution for 2 seconds and does not solve any specific task or problem.", "timestamp": "2025-09-20T12:09:17.046617"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:21.019268"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "fail", "details": "fail - the code attempts to remove a file without checking if it exists, which could lead to a filenotfounderror if the file is not present.", "timestamp": "2025-09-20T12:09:24.449831"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:28.918312"}
+{"prompt": "Count rows in students table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:32.392015"}
+{"prompt": "Drop table logs.", "function": null, "status": "fail", "details": "fail - the code attempts to drop a table named 'logs' without any context or checks, which could lead to data loss if the table exists. it does not solve a specific task or provide any functionality.", "timestamp": "2025-09-20T12:09:35.949452"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:41.278162"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:44.496373"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:47.434552"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "fail", "details": "fail - the function only checks for parentheses balance and does not account for other characters in the string. the output message is misleading as it suggests that the function checks for overall balance, but it only checks for parentheses.", "timestamp": "2025-09-20T12:09:52.309508"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:09:57.887081"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:00.719899"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:05.574288"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:09.527697"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:12.575347"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "fail", "details": "fail - the code attempts to make a get request with an 'auth' header, but it does not handle potential errors or check the response status, which is important for robust code.", "timestamp": "2025-09-20T12:10:16.277550"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:21.871615"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:25.605645"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:27.762088"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "fail", "details": "fail - the code attempts to make a get request to a relative url ('/users') without specifying a base url, which will result in an error.", "timestamp": "2025-09-20T12:10:31.343472"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:38.622069"}
+{"prompt": "Print value of PATH.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:41.324629"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:45.043996"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:54.169334"}
+{"prompt": "Implement stack class with push/pop.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:10:59.840147"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:11.934381"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:17.639942"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:19.809408"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:22.052327"}
+{"prompt": "Reverse characters of 'hello'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:28.263376"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:31.589714"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "fail", "details": "fail - the code does not handle potential errors or exceptions that may occur during the http request, such as connection errors or non-200 status codes.", "timestamp": "2025-09-20T12:11:35.824209"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:41.512077"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:43.620602"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:46.730308"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:49.294416"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:51.575726"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:53.861818"}
+{"prompt": "Drop table logs.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:11:57.369223"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "fail", "details": "fail - the code does not return any value or perform any action other than recursion, and it may lead to a recursion limit error for large values of n.", "timestamp": "2025-09-20T12:12:01.451054"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:12:06.340830"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:12:08.850928"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:12:12.809564"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:12:15.308522"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "fail", "details": "fail - the code uses `os.system` to execute a shell command, which is not a proper way to print output in python. it should use `print('hello')` instead.", "timestamp": "2025-09-20T12:12:17.715480"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "fail", "details": "fail - the code is missing a complete url for the post request; it only specifies a path.", "timestamp": "2025-09-20T12:12:21.668979"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:12:26.573451"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:12:29.996936"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "fail", "details": "fail - the code incorrectly counts sentences by only considering periods and question marks, but it does not account for exclamation marks or other sentence-ending punctuation.", "timestamp": "2025-09-20T12:12:33.043893"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T12:12:36.449485"}
+{"prompt": "Pause 2 seconds.", "function": null, "status": "fail", "details": "fail - the code simply pauses for 2 seconds and then prints a message, but it does not solve any specific task as no task is defined.", "timestamp": "2025-09-20T12:12:41.684162"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:12:46.808483"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "fail", "details": "fail - the code attempts to make a get request to a relative url ('/users') without specifying a base url, which will result in an error.", "timestamp": "2025-09-20T12:12:50.543646"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "fail", "details": "fail - the code attempts to remove a file without checking if it exists, which could lead to a filenotfounderror if the file is not present.", "timestamp": "2025-09-20T12:12:57.858186"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:02.152499"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:06.707496"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:09.559404"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:13.068449"}
+{"prompt": "Find gcd of 48 and 18.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:15.161313"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:17.371548"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:19.652950"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:23.636973"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:25.481531"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:28.465609"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T12:13:29.075250"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:34.496111"}
+{"prompt": "GET with 5s timeout.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:38.388180"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:41.215003"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:43.184072"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:13:46.483936"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "fail", "details": "fail - the code contains a syntax error in the `on_click` method where the `if` statement is missing a closing parenthesis. additionally, the move generation logic using `self.board.san(square)` is incorrect; it should be based on the current position and the intended move.", "timestamp": "2025-09-20T12:14:00.528017"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:15.421082"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:19.074460"}
+{"prompt": "Check if 'madam' is palindrome.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:20.996459"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:25.230958"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "fail", "details": "fail - the code does not handle potential exceptions that may arise from file operations or json parsing, such as the file not existing or containing invalid json.", "timestamp": "2025-09-20T12:14:28.701081"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:36.011609"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:39.373408"}
+{"prompt": "Count rows in students table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:43.449324"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:46.839814"}
+{"prompt": "List files in current directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:48.757715"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:52.083775"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:14:53.778675"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:06.105677"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:08.308914"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:11.199760"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:14.668752"}
+{"prompt": "Print current working directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:16.479507"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:19.621184"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:23.091125"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:26.231249"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:29.308408"}
+{"prompt": "Compute factorial(10000).", "function": null, "status": "fail", "details": "fail - the code attempts to compute the factorial of 10,000, which is an extremely large number and may lead to memory errors or performance issues.", "timestamp": "2025-09-20T12:15:36.183524"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "fail", "details": "fail - the code does not handle the case where the status code is not 404, and it does not provide any output for other http errors.", "timestamp": "2025-09-20T12:15:43.216455"}
+{"prompt": "Print value of PATH.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:47.731564"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:54.937670"}
+{"prompt": "Drop table logs.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:15:58.667774"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:01.278119"}
+{"prompt": "Implement stack class with push/pop.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:06.114219"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "fail", "details": "fail - the code uses `os.system` to execute a shell command, which is not a recommended practice for simply printing output in python. it does not directly solve a task related to python's functionality.", "timestamp": "2025-09-20T12:16:08.777602"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:12.933390"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:15.730567"}
+{"prompt": "Find gcd of 48 and 18.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:17.730034"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:19.684675"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:23.175412"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:27.869941"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:32.323891"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:34.372031"}
+{"prompt": "Pause 2 seconds.", "function": null, "status": "fail", "details": "fail - the code simply pauses for 2 seconds and then prints a message, but it does not solve any specific task or problem.", "timestamp": "2025-09-20T12:16:37.621075"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:44.559107"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:46.934327"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:48.887247"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:50.855735"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:16:54.184201"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "fail", "details": "fail - the code attempts to make a get request to a relative url ('/users') without specifying a base url, which will result in an error.", "timestamp": "2025-09-20T12:16:57.652635"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:04.308735"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "fail", "details": "fail - the code does not return any value or perform any action other than recursion, and it may lead to a recursion limit error for large values of n.", "timestamp": "2025-09-20T12:17:08.348237"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:15.076385"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:17.103552"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:22.896198"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:25.301368"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:31.977870"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:36.340396"}
+{"prompt": "Compute factorial(10000).", "function": null, "status": "fail", "details": "fail - the code attempts to compute the factorial of 10,000, which is an extremely large number and may lead to memory errors or performance issues.", "timestamp": "2025-09-20T12:17:39.105700"}
+{"prompt": "Print current working directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:43.465549"}
+{"prompt": "Count rows in students table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:46.637126"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:17:51.246088"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "fail", "details": "fail - the code is missing the full url for the post request; it only specifies a path.", "timestamp": "2025-09-20T12:17:54.724331"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:00.077812"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "fail", "details": "fail - the code attempts to remove a file without checking if the file exists, which could lead to an error if the file is not found.", "timestamp": "2025-09-20T12:18:03.075357"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:06.794105"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:09.308475"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:11.495619"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:14.430607"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "fail", "details": "fail - the code incorrectly counts sentences by only considering periods and question marks, but it does not account for exclamation marks or other sentence-ending punctuation.", "timestamp": "2025-09-20T12:18:17.808800"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:23.935002"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:27.496610"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:30.583407"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:33.199911"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:35.452685"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:45.558812"}
+{"prompt": "Reverse characters of 'hello'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:47.700036"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:51.782709"}
+{"prompt": "Check if 'madam' is palindrome.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:53.998655"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:18:56.429669"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "fail", "details": "fail - the code attempts to create a list of size 100 million, which may exceed memory limits and cause a memoryerror in many environments.", "timestamp": "2025-09-20T12:18:59.762003"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T12:19:03.355792"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:07.824141"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:12.121503"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:22.902949"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:25.011938"}
+{"prompt": "Print value of PATH.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:27.028119"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:29.262234"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "fail", "details": "fail - the code does not handle potential errors or exceptions that may occur during the http request, such as connection errors or non-200 status codes.", "timestamp": "2025-09-20T12:19:33.169089"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:38.877809"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "fail", "details": "fail - the code does not handle the case where the status code is not 404, and it does not provide any output for other http errors.", "timestamp": "2025-09-20T12:19:43.012129"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:48.996662"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:52.074810"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:55.121592"}
+{"prompt": "List files in current directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:57.027839"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:19:59.292932"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:01.668890"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:03.778029"}
+{"prompt": "GET with 5s timeout.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:07.339402"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:12.470182"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "fail", "details": "fail - the code attempts to make a get request to a relative url ('/users') without specifying a base url, which will result in an error.", "timestamp": "2025-09-20T12:20:22.026741"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:28.263052"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:31.778033"}
+{"prompt": "Compute factorial(10000).", "function": null, "status": "fail", "details": "fail - the code attempts to compute the factorial of 10,000, which is an extremely large number and may lead to performance issues or memory errors.", "timestamp": "2025-09-20T12:20:34.513283"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:40.449548"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "fail", "details": "fail - the code does not handle potential errors or exceptions that may occur during the http request, such as connection errors or non-200 status codes.", "timestamp": "2025-09-20T12:20:43.950400"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:47.805664"}
+{"prompt": "Pause 2 seconds.", "function": null, "status": "fail", "details": "fail - the code only pauses execution for 2 seconds and does not solve any specific task or problem.", "timestamp": "2025-09-20T12:20:50.357223"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:57.027722"}
+{"prompt": "Count rows in students table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:20:59.699544"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:01.824316"}
+{"prompt": "Print value of PATH.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:03.683678"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:06.872039"}
+{"prompt": "GET with 5s timeout.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:09.981914"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:12.809010"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:15.964414"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:17.918927"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:20.277670"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:23.044001"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:27.073392"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:29.316683"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:33.105596"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:35.418923"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:38.653250"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:43.462543"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "fail", "details": "fail - the code attempts to remove a file without checking if it exists, which could lead to a filenotfounderror if the file is not present.", "timestamp": "2025-09-20T12:21:48.309253"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:52.093722"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:55.027567"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:57.980205"}
+{"prompt": "Print current working directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:21:59.840547"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:22:05.637663"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:22:07.808554"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:22:12.746266"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:22:15.009648"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:22:19.497437"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:22:22.700666"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "fail", "details": "fail - the code is missing an import statement for `qtimer`, which will cause a runtime error when trying to use it.", "timestamp": "2025-09-20T12:22:35.857249"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:22:50.498705"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "fail", "details": "fail - the code uses a relative url for the post request, which will not work unless the base url is defined. it should include the full url to the api endpoint.", "timestamp": "2025-09-20T12:22:54.308926"}
+{"prompt": "Check if 'madam' is palindrome.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:22:58.856390"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:01.747462"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:05.058737"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "fail", "details": "fail - the code attempts to create a list of 100 million zeros, which may exceed memory limits in many environments, leading to a memoryerror.", "timestamp": "2025-09-20T12:23:09.019718"}
+{"prompt": "Reverse characters of 'hello'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:13.449866"}
+{"prompt": "Find gcd of 48 and 18.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:15.511727"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:17.529760"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:19.792899"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:22.136576"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T12:23:23.449795"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "fail", "details": "fail - the code does not correctly count sentences that end with both periods and question marks. it only counts periods and adds the count of question marks separately, which may lead to incorrect results if there are multiple sentences ending with question marks.", "timestamp": "2025-09-20T12:23:28.574183"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:34.521216"}
+{"prompt": "Implement stack class with push/pop.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:39.558312"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:44.417491"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:46.683811"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:23:48.980794"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "fail", "details": "fail the code does not handle the case where a player clicks on an empty square or a square occupied by their own piece when selecting a piece to move, which could lead to an error. additionally, the path to the stockfish engine is hardcoded and may not be valid for all users.", "timestamp": "2025-09-20T12:24:04.102675"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:29.038735"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": null, "status": "unsupported", "details": "Non-Python language requested", "timestamp": "2025-09-20T12:24:29.687146"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:33.745914"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:36.042003"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:43.255362"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:45.520743"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:48.457923"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:51.465395"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:54.573561"}
+{"prompt": "List files in current directory.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:56.716636"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:24:59.777939"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:25:03.493584"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:25:06.837760"}
+{"prompt": "Drop table logs.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-20T12:25:11.568519"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:25:19.460650"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:21.310864"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:22.939370"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:25.208802"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:28.134932"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:25:29.654843"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:25:33.264922"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:25:34.788235"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T12:25:35.263986"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:37.484883"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:39.705183"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:41.908651"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:43.397433"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:25:44.715780"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:45.987922"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:48.057606"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:50.574908"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:53.264615"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:55.571933"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:25:57.128963"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:25:59.288732"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:00.044032"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:26:01.396111"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:02.852380"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:04.308651"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:06.329721"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:26:07.560191"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:08.239677"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:10.822630"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:12.304789"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:15.025462"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:17.532685"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T12:26:19.056542"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:19.634884"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:22.173867"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:24.398440"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:26.745543"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T12:26:28.825225"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:31.217392"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:26:32.867469"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:26:34.392163"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:36.237071"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:37.502195"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:39.565473"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:41.756824"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:43.147993"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:26:44.463036"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:45.099282"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:46.631449"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:47.945011"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:50.578053"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:52.940224"}
+{"prompt": "Append 'error' to log.txt.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:26:55.450701"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:26:56.167421"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:26:56.887157"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:26:57.554679"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:00.043740"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:02.593390"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:04.164477"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:27:05.440873"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:06.137315"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:08.520506"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:09.776684"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:11.188710"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:13.444756"}
+{"prompt": "Create folder 'backup'.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:27:16.292792"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:16.913751"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:19.086760"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T12:27:20.654571"}
+{"prompt": "Implement stack class with push/pop.", "function": "stack_push", "status": "pass", "details": "All 1 test cases passed", "timestamp": "2025-09-20T12:27:24.842227"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:32.786455"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:35.195593"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:37.844758"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:40.422049"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:44.903208"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:47.242737"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:49.329584"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:27:50.708366"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:27:51.234227"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:27:51.732403"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:27:52.545169"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:54.561683"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:56.002850"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:27:57.329442"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:27:58.602813"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:00.013529"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:01.409922"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:03.971323"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:05.672174"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:08.057573"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:10.784941"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:13.332925"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:15.618999"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:16.984493"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:28:19.054155"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:19.855806"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:28:22.238196"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:23.519677"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:25.950872"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:28:27.559657"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:29.272528"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:31.299428"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:33.631373"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:35.879795"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:28:37.261719"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:37.969458"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T12:28:41.051558"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:28:42.788933"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:43.383495"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T12:28:45.320563"}
+{"prompt": "Create folder 'backup'.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:28:48.975532"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:50.425127"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T12:28:52.003248"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:54.050037"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:28:55.508918"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:28:57.044454"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:28:57.698546"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:00.088654"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:01.363479"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:03.361315"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:05.743968"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:07.320654"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:08.946821"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:29:10.398831"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:11.792402"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:13.405589"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:14.741527"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:17.119386"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:19.548803"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:22.299674"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:24.577569"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:26.045205"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:29:28.442516"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:29.006173"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:31.055867"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:33.538001"}
+{"prompt": "Print value of PATH.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:34.941946"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:37.748192"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T12:29:40.285212"}
+{"prompt": "Implement stack class with push/pop.", "function": "stack_push", "status": "pass", "details": "All 1 test cases passed", "timestamp": "2025-09-20T12:29:44.637009"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:52.484634"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:56.649936"}
+{"prompt": "Create folder 'backup'.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:29:59.331485"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:29:59.919379"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:30:01.295723"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:02.612980"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:05.156531"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T12:30:06.575227"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:08.774274"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:12.134666"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:30:13.695307"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:30:14.343419"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:15.074980"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:21.056669"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:23.472179"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:25.684196"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:27.254656"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:29.392256"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:30.865738"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:32.357776"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:34.584605"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:30:36.192819"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:36.874827"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:38.330789"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:40.766036"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:30:42.891539"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:43.375712"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:45.896960"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:48.331897"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:49.910888"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:53.054184"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:55.478889"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:30:58.347173"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:30:59.703407"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:00.471098"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:01.877977"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:04.615469"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:06.350240"}
+{"prompt": "Append 'error' to log.txt.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:31:09.270358"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:31:09.951849"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:10.544081"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:31:13.002018"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:13.677859"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:15.363290"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:20.820567"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:23.006558"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:24.474872"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:26.689163"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:31:28.246461"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:29.867240"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:31.575259"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:34.147984"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:37.286195"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:38.712792"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:31:41.139256"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:31:43.450838"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:31:44.931217"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:45.504059"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T12:31:48.833167"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:50.800670"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:53.081562"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:31:55.684961"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:31:57.690224"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T12:31:58.750951"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:00.249069"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:02.272480"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:04.680417"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:32:06.014851"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:07.865570"}
+{"prompt": "Print value of PATH.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:09.340765"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:16.493765"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:19.196281"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:20.629875"}
+{"prompt": "Implement stack class with push/pop.", "function": "stack_push", "status": "pass", "details": "All 1 test cases passed", "timestamp": "2025-09-20T12:32:23.307973"}
+{"prompt": "Run 'echo hello'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:24.031955"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:25.395755"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:32:27.422975"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:32:28.036124"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:28.523557"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:30.940021"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:32.898977"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:35.004176"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:32:36.755293"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:32:37.299539"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:38.563575"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:32:40.597627"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:41.102072"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:42.384437"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:44.977605"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:47.185419"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:49.567911"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:51.851036"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:54.206110"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:55.581005"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:58.472488"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:32:59.857138"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T12:33:02.467993"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:04.505934"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:33:06.070351"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:33:06.624409"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:07.144504"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:09.571996"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:18.449268"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:33:19.887579"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:21.616107"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:23.167188"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:24.475197"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:25.958585"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:27.275213"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:28.763002"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:31.271439"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:33:33.573548"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:34.757588"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:36.948607"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T12:33:38.376612"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T12:33:40.944440"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:33:42.945334"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:44.309360"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:33:45.699744"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:46.200646"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:48.560626"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:51.179604"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:52.384114"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:54.751424"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:57.018989"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:33:58.330362"}
+{"prompt": "Print value of PATH.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:00.042111"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:02.457505"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:04.703239"}
+{"prompt": "Create folder 'backup'.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:34:06.829845"}
+{"prompt": "Catch HTTPError on 404.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:08.101375"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:10.634545"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:13.165916"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:16.216161"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:34:18.159705"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:18.927671"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:20.730536"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:22.182845"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:34:24.598765"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:25.894777"}
+{"prompt": "Call /users \u2192 print first 5 names.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:35.259169"}
+{"prompt": "Find max in [12,45,7,89,34].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:38.401311"}
+{"prompt": "Extract phone (123-456-7890) from text.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:39.985959"}
+{"prompt": "Compute factorial(10000).", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:34:43.303645"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:34:44.679601"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:46.244909"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:51.844773"}
+{"prompt": "Pause 2 seconds.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:34:53.341379"}
+{"prompt": "Update salary=5000 where id=2.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:55.020710"}
+{"prompt": "Count rows in students table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:57.489040"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:34:59.007936"}
+{"prompt": "Print value of PATH.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:00.573156"}
+{"prompt": "Count lines in story.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:03.185896"}
+{"prompt": "GET with 5s timeout.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:35:07.512453"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "function": "factorial", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:35:08.095624"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:10.682492"}
+{"prompt": "Find the sum of integers from 1 to 100.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:12.447743"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:13.922751"}
+{"prompt": "Create folder 'backup'.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:35:18.929485"}
+{"prompt": "Queue class with enqueue/dequeue.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:23.525733"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "function": "database", "status": "pass", "details": "Database code detected", "timestamp": "2025-09-20T12:35:24.822559"}
+{"prompt": "Check if '(a+b)' is balanced.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:26.509363"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:28.007905"}
+{"prompt": "Save [1,2,3] to results.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:30.392802"}
+{"prompt": "Find depth of binary tree root-left-right.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:32.685938"}
+{"prompt": "Delete temp.txt from folder.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:34.900878"}
+{"prompt": "Find 'cat' in 'concatenate'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:37.768957"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:40.764317"}
+{"prompt": "Find union of {1,2} and {2,3}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:42.135646"}
+{"prompt": "Print current working directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:35:45.453292"}
+{"prompt": "Append 'error' to log.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:46.939503"}
+{"prompt": "Find max in [3,8,2].", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:48.260719"}
+{"prompt": "Check 'test@mail.com' valid.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:50.450062"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "function": "fibonacci", "status": "fail", "details": "Input 1: expected [0, 0], got [0]", "timestamp": "2025-09-20T12:35:51.887845"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:55.150344"}
+{"prompt": "Load settings.json and print keys.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:35:59.263175"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "function": null, "status": "unsupported", "details": "Unsupported library usage", "timestamp": "2025-09-20T12:36:00.654575"}
+{"prompt": "Read integers from data.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:03.118096"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:05.206832"}
+{"prompt": "Check if 'madam' is palindrome.", "function": "is_palindrome", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:36:06.462674"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:06.954031"}
+{"prompt": "Download image.jpg from URL.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:09.507536"}
+{"prompt": "List of 1e8 zeros.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:12.217157"}
+{"prompt": "Reverse characters of 'hello'.", "function": "reverse_string", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:36:13.701221"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:36:14.325919"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:14.997782"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:16.297525"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:17.596575"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:20.165468"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:21.970863"}
+{"prompt": "Singly linked list traversal.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:26.739260"}
+{"prompt": "Implement stack class with push/pop.", "function": "stack_push", "status": "pass", "details": "All 1 test cases passed", "timestamp": "2025-09-20T12:36:32.420390"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:33.950234"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:36:35.307942"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:36.066563"}
+{"prompt": "Build full chess game in Python.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:38.115715"}
+{"prompt": "Train CNN with TensorFlow here.", "function": null, "status": "unsupported", "details": "Function not in supported list", "timestamp": "2025-09-20T12:36:41.091555"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "function": "sort_list", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:36:42.664670"}
+{"prompt": "Remove vowels from 'education'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:43.167186"}
+{"prompt": "Sum of digits in 9876.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:44.861530"}
+{"prompt": "Measure time to run loop 1\u201310000.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:36:47.482119"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:47.992966"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-20T12:36:49.383291"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:51.221061"}
+{"prompt": "GET https://example.com \u2192 print status code.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:56.117929"}
+{"prompt": "List files in current directory.", "function": "system", "status": "pass", "details": "System utility code detected", "timestamp": "2025-09-20T12:36:57.768172"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:36:59.595141"}
+{"prompt": "Insert [1,'Alice'] into users table.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:37:01.747684"}
+{"prompt": "Create table employees(id,name).", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:37:06.396239"}
+{"prompt": "Drop table logs.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-20T12:37:10.503849"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-21T07:31:00.573941"}
+{"prompt": "Check if 29 is prime.", "function": null, "status": "pass", "details": "pass", "timestamp": "2025-09-21T07:31:10.290599"}
+{"prompt": "Check if 29 is prime.", "function": "is_prime", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-21T07:31:15.240609"}

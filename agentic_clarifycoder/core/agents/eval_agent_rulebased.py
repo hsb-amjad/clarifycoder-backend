@@ -1,7 +1,7 @@
 """
 eval_agent_rulebased.py
 -------------
-EvalAgent v5 (extended for ClarifyCoder dataset)
+EvalAgent v6 (patched for ClarifyCoder dataset)
 
 This version executes generated code in a sandbox when safe,
 and also supports lightweight checks for broader categories:
@@ -15,7 +15,9 @@ and also supports lightweight checks for broader categories:
 - System utilities (keyword presence)
 - Stress/unsupported (mark unsupported)
 
-Now also detects non-Python language stubs and marks them as 'unsupported'.
+Now also:
+- Cleans markdown fences (```python ... ```)
+- Detects non-Python language stubs and marks them as 'unsupported'.
 """
 
 from typing import Dict, Any
@@ -57,6 +59,12 @@ class EvalAgent:
         self.system_keywords = ["os.", "time.",
                                 "json.", "subprocess", "pathlib"]
 
+    def _clean_code(self, code: str) -> str:
+        """
+        Remove markdown fences (```python ... ```).
+        """
+        return code.replace("```python", "").replace("```", "").strip()
+
     def run(self, code: str) -> Dict[str, Any]:
         if not isinstance(code, str):
             raise TypeError("Code must be provided as a string")
@@ -69,23 +77,26 @@ class EvalAgent:
         if code.strip().startswith("# Code template not found"):
             return {"status": "invalid", "function": None, "details": "No valid code generated"}
 
+        # Clean code before execution
+        clean_code = self._clean_code(code)
+
         # Sandbox
         sandbox: Dict[str, Any] = {}
         try:
-            exec(code, sandbox)
+            exec(clean_code, sandbox)
         except Exception as e:
-            return self._keyword_fallback(code, f"Execution failed: {e}")
+            return self._keyword_fallback(clean_code, f"Execution failed: {e}")
 
         func_name = None
         for candidate in self.test_cases.keys():
-            if candidate in sandbox:
+            if candidate in sandbox and callable(sandbox[candidate]):
                 func_name = candidate
                 break
 
         if func_name:
-            return self._run_with_tests(func_name, sandbox[func_name], code)
+            return self._run_with_tests(func_name, sandbox[func_name], clean_code)
 
-        return self._keyword_fallback(code, "Function not in supported list")
+        return self._keyword_fallback(clean_code, "Function not in supported list")
 
     def _run_with_tests(self, func_name: str, func, code: str) -> Dict[str, Any]:
         try:
@@ -131,8 +142,11 @@ class EvalAgent:
                 except RecursionError:
                     return {"status": "fail", "function": func_name, "details": "Recursion error"}
                 if result != expected:
-                    return {"status": "fail", "function": func_name,
-                            "details": f"Input {test_input}: expected {expected}, got {result}"}
+                    return {
+                        "status": "fail",
+                        "function": func_name,
+                        "details": f"Input {test_input}: expected {expected}, got {result}"
+                    }
             return {"status": "pass", "function": func_name,
                     "details": f"All {len(self.test_cases[func_name])} test cases passed"}
         except Exception as e:

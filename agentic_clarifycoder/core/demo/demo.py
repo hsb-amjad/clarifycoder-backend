@@ -57,10 +57,14 @@ def colored_bar(label, value):
 def main():
     # === CLI ARGUMENTS ===
     parser = argparse.ArgumentParser()
-    parser.add_argument("--clarify_mode", choices=["baseline", "llm"], default="baseline")
-    parser.add_argument("--code_mode", choices=["baseline", "llm"], default="baseline")
-    parser.add_argument("--eval_mode", choices=["baseline", "llm"], default="baseline")
-    parser.add_argument("--refine_mode", choices=["baseline", "llm"], default="baseline")
+    parser.add_argument(
+        "--clarify_mode", choices=["baseline", "llm"], default="baseline")
+    parser.add_argument(
+        "--code_mode", choices=["baseline", "llm"], default="baseline")
+    parser.add_argument(
+        "--eval_mode", choices=["baseline", "llm"], default="baseline")
+    parser.add_argument(
+        "--refine_mode", choices=["baseline", "llm"], default="baseline")
     parser.add_argument("--num_prompts", type=int, default=0)
     parser.add_argument("--seed", type=int, default=None)
     parser.add_argument("--log_file", type=str, default=None)
@@ -87,7 +91,8 @@ def main():
         random.seed(args.seed)
 
     if args.num_prompts > 0:
-        prompts = random.sample(all_entries, k=min(args.num_prompts, len(all_entries)))
+        prompts = random.sample(all_entries, k=min(
+            args.num_prompts, len(all_entries)))
     else:
         prompts = random.sample(all_entries, k=random.randint(5, 10))
 
@@ -164,7 +169,7 @@ def main():
         })
 
         # Step 4: Refinement
-        if eval_result["status"] in ["fail", "error"]:
+        if eval_result["status"] in ["fail", "error", "unsupported", "invalid"]:
             refine_attempts += 1
             refine_result = refine.run(code_result["code"], eval_result)
             print("RefineAgent action:", refine_result["action"])
@@ -238,7 +243,8 @@ def main():
     print(f"ARSR (Ambiguity-Resolved Success Rate) = {arsr:.2f}%")
     print(f"CSR (Clear Success Rate) = {csr:.2f}%")
 
-    rfr = (refine_success / refine_attempts * 100) if refine_attempts > 0 else 0
+    rfr = (refine_success / refine_attempts *
+           100) if refine_attempts > 0 else 0
     print(f"RFR (Refinement Fix Rate) = {rfr:.2f}%")
 
     usr = (glob_unsupported / total_prompts) * 100

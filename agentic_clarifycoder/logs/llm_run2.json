@@ -1,7 +1,7 @@
 {
   "metrics": {
     "CRR": 30.0,
-    "CSR": 33.33333333333333,
+    "CSR": 42.857142857142854,
     "ARSR": 33.33333333333333,
     "RFR": 0,
     "USR": 60.0,
@@ -12,6 +12,13 @@
       "pass": 1,
       "fail": 0,
       "unsupported": 2,
+      "error": 0,
+      "invalid": 0
+    },
+    "clear": {
+      "pass": 3,
+      "fail": 0,
+      "unsupported": 4,
       "error": 0,
       "invalid": 0
     },

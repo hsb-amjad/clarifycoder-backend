@@ -1,0 +1,74 @@
+{"id": 1, "category": "math", "ambiguous": "Find the sum of numbers.", "clarify": "Which numbers? Range or list?", "prompt": "Find the sum of integers from 1 to 100.", "expected": 5050}
+{"id": 2, "category": "math", "ambiguous": "Write factorial function.", "clarify": "Recursive or iterative? Input constraints?", "prompt": "Write a recursive function to calculate factorial of n.", "expected": 120}
+{"id": 3, "category": "math", "ambiguous": "Generate Fibonacci numbers.", "clarify": "How many terms? Or up to what value?", "prompt": "Generate first 10 Fibonacci numbers.", "expected": [0,1,1,2,3,5,8,13,21,34]}
+{"id": 4, "category": "math", "ambiguous": "Find gcd.", "clarify": "Which numbers?", "prompt": "Find gcd of 48 and 18.", "expected": 6}
+{"id": 5, "category": "math", "ambiguous": "Check prime.", "clarify": "Single number or range?", "prompt": "Check if 29 is prime.", "expected": true}
+{"id": 6, "category": "math", "ambiguous": "Transpose matrix.", "clarify": "Input format (list, numpy)?", "prompt": "Transpose [[1,2,3],[4,5,6]].", "expected": [[1,4],[2,5],[3,6]]}
+{"id": 7, "category": "math", "ambiguous": "Search number.", "clarify": "Algorithm? Data type?", "prompt": "Binary search 23 in [10,15,20,23,30].", "expected": 3}
+{"id": 8, "category": "math", "ambiguous": "Sort the data efficiently.", "clarify": "Data type? Order?", "prompt": "Sort [9,5,1,7,3] ascending.", "expected": [1,3,5,7,9]}
+{"id": 9, "category": "math", "ambiguous": "Find maximum value.", "clarify": "From where?", "prompt": "Find max in [12,45,7,89,34].", "expected": 89}
+{"id": 10, "category": "math", "ambiguous": "Find digit sum.", "clarify": "Single number or multiple?", "prompt": "Sum of digits in 9876.", "expected": 30}
+{"id": 11, "category": "strings", "ambiguous": "Reverse text.", "clarify": "Reverse string or words?", "prompt": "Reverse characters of 'hello'.", "expected": "olleh"}
+{"id": 12, "category": "strings", "ambiguous": "Find frequency.", "clarify": "Word or character?", "prompt": "Find word frequency in 'this is a test this is'.", "expected": {"this":2,"is":2,"a":1,"test":1}}
+{"id": 13, "category": "strings", "ambiguous": "Check palindrome.", "clarify": "Word or sentence? Case-sensitive?", "prompt": "Check if 'madam' is palindrome.", "expected": true}
+{"id": 14, "category": "strings", "ambiguous": "Remove letters.", "clarify": "Which letters?", "prompt": "Remove vowels from 'education'.", "expected": "dctn"}
+{"id": 15, "category": "strings", "ambiguous": "Find substring.", "clarify": "Which substring, in which string?", "prompt": "Find 'cat' in 'concatenate'.", "expected": 3}
+{"id": 16, "category": "strings", "ambiguous": "Capitalize sentence.", "clarify": "First word only or all words?", "prompt": "Capitalize each word in 'python coding challenge'.", "expected": "Python Coding Challenge"}
+{"id": 17, "category": "strings", "ambiguous": "Find longest.", "clarify": "Word in string? Item in list?", "prompt": "Find longest word in 'The quick brown fox'.", "expected": "quick"}
+{"id": 18, "category": "strings", "ambiguous": "Count lines.", "clarify": "Lines or sentences?", "prompt": "Count sentences in 'Hello. How are you? Fine.'", "expected": 3}
+{"id": 19, "category": "strings", "ambiguous": "Replace word.", "clarify": "Which word? Replace with what?", "prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "expected": "The dog sat"}
+{"id": 20, "category": "strings", "ambiguous": "Check anagram.", "clarify": "Which words?", "prompt": "Check if 'listen' and 'silent' are anagrams.", "expected": true}
+{"id": 21, "category": "fileio", "ambiguous": "Save results.", "clarify": "Format? File type?", "prompt": "Save [1,2,3] to results.txt.", "expected": "file:results.txt"}
+{"id": 22, "category": "fileio", "ambiguous": "Read data.", "clarify": "From where? Type?", "prompt": "Read integers from data.txt.", "expected": "list"}
+{"id": 23, "category": "fileio", "ambiguous": "Write log.", "clarify": "Append or overwrite?", "prompt": "Append 'error' to log.txt.", "expected": "file:log.txt"}
+{"id": 24, "category": "fileio", "ambiguous": "Load config.", "clarify": "File type? Format?", "prompt": "Load settings.json and print keys.", "expected": "list_of_keys"}
+{"id": 25, "category": "fileio", "ambiguous": "Copy.", "clarify": "Which files? Paths?", "prompt": "Copy file1.txt → file2.txt.", "expected": "file:file2.txt"}
+{"id": 26, "category": "fileio", "ambiguous": "Combine.", "clarify": "Combine files or strings?", "prompt": "Merge a.txt and b.txt into merged.txt.", "expected": "file:merged.txt"}
+{"id": 27, "category": "fileio", "ambiguous": "Count.", "clarify": "Count lines, words, chars?", "prompt": "Count lines in story.txt.", "expected": "int"}
+{"id": 28, "category": "fileio", "ambiguous": "Remove.", "clarify": "Delete item or string?", "prompt": "Delete temp.txt from folder.", "expected": "deleted"}
+{"id": 29, "category": "datastructures", "ambiguous": "Find max.", "clarify": "From where?", "prompt": "Find max in [3,8,2].", "expected": 8}
+{"id": 30, "category": "datastructures", "ambiguous": "Make stack.", "clarify": "Class-based or list?", "prompt": "Implement stack class with push/pop.", "expected": "class:Stack"}
+{"id": 31, "category": "datastructures", "ambiguous": "Create queue.", "clarify": "FIFO? Linked list or array?", "prompt": "Queue class with enqueue/dequeue.", "expected": "class:Queue"}
+{"id": 32, "category": "datastructures", "ambiguous": "Make list.", "clarify": "Python list or linked list?", "prompt": "Singly linked list traversal.", "expected": "linkedlist"}
+{"id": 33, "category": "datastructures", "ambiguous": "Combine maps.", "clarify": "Overwrite conflicts?", "prompt": "Merge {'a':1} and {'b':2}.", "expected": {"a":1,"b":2}}
+{"id": 34, "category": "datastructures", "ambiguous": "Do set.", "clarify": "Union, intersection?", "prompt": "Find union of {1,2} and {2,3}.", "expected": [1,2,3]}
+{"id": 35, "category": "datastructures", "ambiguous": "Check brackets.", "clarify": "Which symbols?", "prompt": "Check if '(a+b)' is balanced.", "expected": true}
+{"id": 36, "category": "datastructures", "ambiguous": "Traverse graph.", "clarify": "Which algorithm?", "prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "expected": [0,1,2,3]}
+{"id": 37, "category": "datastructures", "ambiguous": "Depth.", "clarify": "Depth of what?", "prompt": "Find depth of binary tree root-left-right.", "expected": "int"}
+{"id": 38, "category": "datastructures", "ambiguous": "Sort dict.", "clarify": "By key or value? Asc/desc?", "prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "expected": [["b",1],["c",2],["a",3]]}
+{"id": 39, "category": "networking", "ambiguous": "Fetch page.", "clarify": "Which URL? Which method?", "prompt": "GET https://example.com → print status code.", "expected": 200}
+{"id": 40, "category": "networking", "ambiguous": "Send request.", "clarify": "GET/POST? Payload?", "prompt": "POST JSON {'id':1} to /api.", "expected": "response"}
+{"id": 41, "category": "networking", "ambiguous": "Download data.", "clarify": "From where? Save as?", "prompt": "Download image.jpg from URL.", "expected": "file:image.jpg"}
+{"id": 42, "category": "networking", "ambiguous": "Parse response.", "clarify": "Which format?", "prompt": "Parse JSON {'user':'Alice'} and print name.", "expected": "Alice"}
+{"id": 43, "category": "networking", "ambiguous": "Get data.", "clarify": "Retry? Timeout?", "prompt": "GET with 5s timeout.", "expected": "timeout"}
+{"id": 44, "category": "networking", "ambiguous": "Send data.", "clarify": "Auth headers? Content type?", "prompt": "Send GET with header {'Auth':'token'}.", "expected": "ok"}
+{"id": 45, "category": "networking", "ambiguous": "Check.", "clarify": "What to check?", "prompt": "Catch HTTPError on 404.", "expected": "error"}
+{"id": 46, "category": "networking", "ambiguous": "API call.", "clarify": "Which API?", "prompt": "Call /users → print first 5 names.", "expected": "list"}
+{"id": 47, "category": "database", "ambiguous": "Run query.", "clarify": "Which DB? Which SQL?", "prompt": "Run SELECT * FROM students in SQLite.", "expected": "rows"}
+{"id": 48, "category": "database", "ambiguous": "Save records.", "clarify": "Into which table? Format?", "prompt": "Insert [1,'Alice'] into users table.", "expected": "ok"}
+{"id": 49, "category": "database", "ambiguous": "Make table.", "clarify": "Which schema?", "prompt": "Create table employees(id,name).", "expected": "ok"}
+{"id": 50, "category": "database", "ambiguous": "Update.", "clarify": "Which rows? Which values?", "prompt": "Update salary=5000 where id=2.", "expected": "ok"}
+{"id": 51, "category": "database", "ambiguous": "Count.", "clarify": "Count rows? Sum values?", "prompt": "Count rows in students table.", "expected": "int"}
+{"id": 52, "category": "database", "ambiguous": "Delete table.", "clarify": "Which one? Safe drop?", "prompt": "Drop table logs.", "expected": "ok"}
+{"id": 53, "category": "regex", "ambiguous": "Extract numbers.", "clarify": "From where?", "prompt": "Extract all integers from 'a1 b22 c333'.", "expected": [1,22,333]}
+{"id": 54, "category": "regex", "ambiguous": "Check email.", "clarify": "Strict RFC or simple?", "prompt": "Check 'test@mail.com' valid.", "expected": true}
+{"id": 55, "category": "regex", "ambiguous": "Find tags.", "clarify": "Hashtags? Keywords?", "prompt": "Extract hashtags from 'Loving #python and #AI'.", "expected": ["#python","#AI"]}
+{"id": 56, "category": "regex", "ambiguous": "Find numbers.", "clarify": "Phone, digits, IDs?", "prompt": "Extract phone (123-456-7890) from text.", "expected": "123-456-7890"}
+{"id": 57, "category": "regex", "ambiguous": "Split string.", "clarify": "Split by what?", "prompt": "Split by multiple spaces in 'a   b c'.", "expected": ["a","b","c"]}
+{"id": 58, "category": "regex", "ambiguous": "Replace.", "clarify": "Replace what? Regex or string?", "prompt": "Replace all digits in 'abc123' with '*'.", "expected": "abc***"}
+{"id": 59, "category": "system", "ambiguous": "Get current time.", "clarify": "UTC? Format?", "prompt": "Print date/time in YYYY-MM-DD.", "expected": "date"}
+{"id": 60, "category": "system", "ambiguous": "Parse JSON.", "clarify": "From string or file?", "prompt": "Parse '{\"a\":1,\"b\":2}' → print keys.", "expected": ["a","b"]}
+{"id": 61, "category": "system", "ambiguous": "List.", "clarify": "Directory contents?", "prompt": "List files in current directory.", "expected": "list"}
+{"id": 62, "category": "system", "ambiguous": "Check file.", "clarify": "Existence? Permissions?", "prompt": "Check if notes.txt exists.", "expected": true}
+{"id": 63, "category": "system", "ambiguous": "Make folder.", "clarify": "Name/path?", "prompt": "Create folder 'backup'.", "expected": "ok"}
+{"id": 64, "category": "system", "ambiguous": "Check time.", "clarify": "Wall clock or exec time?", "prompt": "Measure time to run loop 1–10000.", "expected": "float"}
+{"id": 65, "category": "system", "ambiguous": "Get env.", "clarify": "Which one?", "prompt": "Print value of PATH.", "expected": "string"}
+{"id": 66, "category": "system", "ambiguous": "Pause.", "clarify": "For how long?", "prompt": "Pause 2 seconds.", "expected": "delay"}
+{"id": 67, "category": "system", "ambiguous": "Run cmd.", "clarify": "Which command?", "prompt": "Run 'echo hello'.", "expected": "hello"}
+{"id": 68, "category": "system", "ambiguous": "Dir.", "clarify": "Show current? Change?", "prompt": "Print current working directory.", "expected": "path"}
+{"id": 69, "category": "stress", "ambiguous": "Draw cube.", "clarify": "2D or 3D? Which lib?", "prompt": "Render rotating 3D cube in OpenGL.", "expected": "unsupported"}
+{"id": 70, "category": "stress", "ambiguous": "Build game.", "clarify": "Which game? Console/GUI?", "prompt": "Build full chess game in Python.", "expected": "unsupported"}
+{"id": 71, "category": "stress", "ambiguous": "Factorial large.", "clarify": "How large? Approximate?", "prompt": "Compute factorial(10000).", "expected": "overflow"}
+{"id": 72, "category": "stress", "ambiguous": "Recursive test.", "clarify": "Depth? Tail recursion?", "prompt": "Recursive call depth 2000.", "expected": "recursionerror"}
+{"id": 73, "category": "stress", "ambiguous": "Make big list.", "clarify": "Size? Purpose?", "prompt": "List of 1e8 zeros.", "expected": "memoryerror"}
+{"id": 74, "category": "stress", "ambiguous": "Use TensorFlow.", "clarify": "For what task?", "prompt": "Train CNN with TensorFlow here.", "expected": "unsupported"}

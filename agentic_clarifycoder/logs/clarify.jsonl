@@ -118,3 +118,1166 @@
 {"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-16T21:40:59.163160"}
 {"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-16T21:41:02.698571"}
 {"prompt": "Check if notes.txt exists.", "status": "ambiguous", "clarifications": ["What should be done if notes.txt does not exist?"], "timestamp": "2025-09-16T21:41:04.090492"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:30.995979"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:16:32.464708"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:36.407138"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:36.508856"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:36.524489"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-20T11:16:36.524489"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:37.744677"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:16:37.744677"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:39.902257"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:39.943655"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:43.360031"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:43.365055"}
+{"prompt": "Build full chess game in Python.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:43.369065"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:43.373369"}
+{"prompt": "Append 'error' to log.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:43.377346"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What schema should the new table have?"], "timestamp": "2025-09-20T11:16:43.380346"}
+{"prompt": "Find max in [3,8,2].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:16:45.778531"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T11:16:46.723671"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:48.014634"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:48.014634"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:16:54.824712"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:16:59.394824"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:04.603869"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in?"], "timestamp": "2025-09-20T11:17:06.369053"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T11:17:08.669393"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:11.352917"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T11:17:13.049202"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T11:17:15.642956"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:18.207348"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:20.273149"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:29.752474"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:34.724344"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or rules do you want the chess game to include?"], "timestamp": "2025-09-20T11:17:36.367893"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:48.093530"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific format or content do you want to append to log.txt?"], "timestamp": "2025-09-20T11:17:49.698867"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T11:17:52.278345"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:55.090484"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:56.615280"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:57.133988"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:17:59.011674"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:18:04.621591"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:18:05.429767"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:18:09.662862"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format should the keys be printed in?"], "timestamp": "2025-09-20T11:18:10.407076"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T11:18:11.791059"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:18:12.907166"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print in the format YYYY-MM-DD?"], "timestamp": "2025-09-20T11:18:13.727343"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T11:18:15.593009"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:18:16.778821"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:18:22.379900"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:19:31.261229"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:19:31.276856"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:19:38.186157"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:19:40.574622"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:19:49.794210"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:19:50.512430"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:22:19.501998"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:22:25.769115"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:22:32.821895"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:23:23.634508"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:23:29.056837"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:23:35.373642"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:26:42.747786"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:26:49.515342"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:26:56.800683"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:30:39.374452"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:30:46.375968"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:30:53.424324"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:35:46.557946"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:35:52.729846"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:35:59.281968"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:37:54.211823"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:38:00.666494"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:38:07.529054"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:38:56.088180"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:38:56.094769"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:38:58.312328"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:39:03.299307"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:39:06.490689"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:39:09.727695"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:39:16.496068"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:39:17.435682"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:39:18.844314"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:40:45.243194"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:40:45.259698"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:40:50.059266"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:40:55.227031"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:40:57.860969"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:41:01.224254"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:41:07.883689"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:41:08.791455"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:41:13.080559"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:45:35.666002"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:45:35.666002"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:45:37.572288"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:45:43.745255"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:45:47.188929"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:45:50.992618"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:45:58.715230"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:45:59.685841"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:46:01.560493"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:57:10.245389"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:57:10.291714"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:57:12.685909"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:57:19.743553"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:57:23.861778"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:57:27.581477"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:57:38.019612"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T11:57:38.926366"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:57:41.149598"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:41.278831"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:58:41.286922"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:44.532063"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:44.540053"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:44.546063"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-20T11:58:44.552478"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:45.314538"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:58:45.318626"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.282943"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.289948"}
+{"prompt": "Build full chess game in Python.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.296946"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.302946"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.308944"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.315237"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.319230"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.326232"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What schema should the new table have?"], "timestamp": "2025-09-20T11:58:46.331982"}
+{"prompt": "Delete temp.txt from folder.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.942405"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:46.949410"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "ambiguous", "clarifications": ["Do you want word frequency or character frequency?"], "timestamp": "2025-09-20T11:58:46.954406"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:47.658638"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:47.664203"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T11:58:47.670200"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:48.165417"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:48.170419"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:48.176420"}
+{"prompt": "Reverse characters of 'hello'.", "status": "ambiguous", "clarifications": ["Do you want to reverse characters or words?"], "timestamp": "2025-09-20T11:58:48.182669"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:48.731419"}
+{"prompt": "Singly linked list traversal.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:48.736661"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:58:48.742664"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:49.395835"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:49.401831"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:49.406834"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:49.457978"}
+{"prompt": "List of 1e8 zeros.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:49.462975"}
+{"prompt": "Check if notes.txt exists.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:49.467975"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["Should I include authentication or custom headers?"], "timestamp": "2025-09-20T11:58:49.473976"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["Are you sure you want to use TensorFlow here? (unsupported in baseline)"], "timestamp": "2025-09-20T11:58:50.023826"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:50.666836"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:50.672823"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What timeout duration should I use for the request?", "Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:58:50.677824"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:51.898401"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:51.904751"}
+{"prompt": "Update salary=5000 where id=2.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:51.911061"}
+{"prompt": "Catch HTTPError on 404.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:51.917072"}
+{"prompt": "Find max in [3,8,2].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:58:51.922069"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:52.410318"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:52.414301"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "ambiguous", "clarifications": ["Which two words should I compare for being anagrams?"], "timestamp": "2025-09-20T11:58:52.419305"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:53.105284"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:58:53.112163"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:53.661574"}
+{"prompt": "Append 'error' to log.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:53.666573"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "ambiguous", "clarifications": ["Should I implement factorial iteratively or recursively?"], "timestamp": "2025-09-20T11:58:53.671775"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T11:58:54.287584"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.715229"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.730839"}
+{"prompt": "Download image.jpg from URL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.730839"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.748768"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.754775"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.759767"}
+{"prompt": "Read integers from data.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.766075"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.773079"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.779616"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.785626"}
+{"prompt": "Create folder 'backup'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.791617"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:55.792761"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Do you want a safe check before dropping the table?"], "timestamp": "2025-09-20T11:58:55.792761"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "ambiguous", "clarifications": ["Do you mean a 2D ASCII cube or 3D OpenGL rendering?", "Are you sure you want to use OpenGL here? (unsupported in baseline)"], "timestamp": "2025-09-20T11:58:56.996331"}
+{"prompt": "Implement stack class with push/pop.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:58:58.339802"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:01.778021"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:01.778021"}
+{"prompt": "Build full chess game in Python.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:01.793648"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:01.793648"}
+{"prompt": "Append 'error' to log.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:01.809487"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What schema should the new table have?"], "timestamp": "2025-09-20T11:59:01.816493"}
+{"prompt": "Find max in [3,8,2].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:59:03.571778"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T11:59:04.196457"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:04.793678"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:04.793678"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:04.809280"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:59:04.809280"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:05.433726"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:05.433726"}
+{"prompt": "Reverse characters of 'hello'.", "status": "ambiguous", "clarifications": ["Do you want to reverse characters or words?"], "timestamp": "2025-09-20T11:59:05.449361"}
+{"prompt": "Update salary=5000 where id=2.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.090347"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.090347"}
+{"prompt": "Catch HTTPError on 404.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.105981"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "ambiguous", "clarifications": ["Which two words should I compare for being anagrams?"], "timestamp": "2025-09-20T11:59:06.105981"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.903688"}
+{"prompt": "Download image.jpg from URL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.903688"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.903688"}
+{"prompt": "List of 1e8 zeros.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.920587"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.925578"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.932576"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:06.934658"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What timeout duration should I use for the request?", "Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:59:06.934658"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:07.981258"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:59:07.981258"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:08.746148"}
+{"prompt": "Read integers from data.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:08.761736"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:08.761736"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:08.761736"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:08.777667"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T11:59:08.781665"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:09.282667"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "ambiguous", "clarifications": ["Do you mean a 2D ASCII cube or 3D OpenGL rendering?", "Are you sure you want to use OpenGL here? (unsupported in baseline)"], "timestamp": "2025-09-20T11:59:09.287669"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:10.772197"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:10.776185"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:10.782206"}
+{"prompt": "Create folder 'backup'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:10.798497"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:10.804499"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:10.810763"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "ambiguous", "clarifications": ["Do you want word frequency or character frequency?"], "timestamp": "2025-09-20T11:59:10.817758"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-20T11:59:11.544114"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:12.209201"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:12.214348"}
+{"prompt": "Delete temp.txt from folder.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:12.221368"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:12.228370"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:12.234515"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Do you want a safe check before dropping the table?"], "timestamp": "2025-09-20T11:59:12.241516"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:59:12.775331"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:13.513775"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "ambiguous", "clarifications": ["Should I implement factorial iteratively or recursively?"], "timestamp": "2025-09-20T11:59:13.520793"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:14.464298"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:14.464298"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:14.464298"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:14.479924"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:14.479924"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:14.495547"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["Should I include authentication or custom headers?"], "timestamp": "2025-09-20T11:59:14.495547"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:15.105514"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:59:15.121115"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:15.795061"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:15.825806"}
+{"prompt": "Singly linked list traversal.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:15.854520"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:15.872281"}
+{"prompt": "Count lines in story.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:15.887898"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["Are you sure you want to use TensorFlow here? (unsupported in baseline)"], "timestamp": "2025-09-20T11:59:15.903521"}
+{"prompt": "Implement stack class with push/pop.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:16.637437"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:20.245964"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:20.261389"}
+{"prompt": "Create folder 'backup'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:20.261389"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:20.276987"}
+{"prompt": "Reverse characters of 'hello'.", "status": "ambiguous", "clarifications": ["Do you want to reverse characters or words?"], "timestamp": "2025-09-20T11:59:20.276987"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:21.653585"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["Should I include authentication or custom headers?"], "timestamp": "2025-09-20T11:59:21.669235"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:22.300114"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:22.306116"}
+{"prompt": "Check if notes.txt exists.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:22.308200"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "ambiguous", "clarifications": ["Should I implement factorial iteratively or recursively?"], "timestamp": "2025-09-20T11:59:22.308200"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T11:59:22.871759"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:23.465597"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Do you want a safe check before dropping the table?"], "timestamp": "2025-09-20T11:59:23.473605"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:59:24.105517"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "ambiguous", "clarifications": ["Which two words should I compare for being anagrams?"], "timestamp": "2025-09-20T11:59:24.684218"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:25.512196"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:25.512196"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:25.512196"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:25.527819"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:25.527819"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:25.527819"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:59:25.527819"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.059117"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.074716"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.074716"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.074716"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.090339"}
+{"prompt": "Delete temp.txt from folder.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.090339"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.105973"}
+{"prompt": "List of 1e8 zeros.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.105973"}
+{"prompt": "Count lines in story.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.105973"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What schema should the new table have?"], "timestamp": "2025-09-20T11:59:26.128015"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.730195"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:26.745816"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "ambiguous", "clarifications": ["Do you want word frequency or character frequency?"], "timestamp": "2025-09-20T11:59:26.745816"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:27.440993"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:27.448997"}
+{"prompt": "Append 'error' to log.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:27.456201"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T11:59:27.462209"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:27.996134"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What timeout duration should I use for the request?", "Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:59:28.011762"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:29.527521"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:29.527521"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:29.527521"}
+{"prompt": "Build full chess game in Python.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:29.543152"}
+{"prompt": "Find max in [3,8,2].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:59:29.543152"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:30.042642"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-20T11:59:30.042642"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:30.637826"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:30.637826"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:59:30.653467"}
+{"prompt": "Read integers from data.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:31.199299"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:31.199299"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:31.214899"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:31.214899"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:59:31.214899"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:31.747142"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "ambiguous", "clarifications": ["Do you mean a 2D ASCII cube or 3D OpenGL rendering?", "Are you sure you want to use OpenGL here? (unsupported in baseline)"], "timestamp": "2025-09-20T11:59:31.762394"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.121966"}
+{"prompt": "Download image.jpg from URL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.121966"}
+{"prompt": "Singly linked list traversal.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.121966"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.139794"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.142788"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.152933"}
+{"prompt": "Update salary=5000 where id=2.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.157915"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.162915"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.166913"}
+{"prompt": "Catch HTTPError on 404.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.167969"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:33.167969"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:37.065644"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Do you want a safe check before dropping the table?"], "timestamp": "2025-09-20T11:59:37.076644"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:38.476441"}
+{"prompt": "Implement stack class with push/pop.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:38.480543"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:38.480543"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "ambiguous", "clarifications": ["Which two words should I compare for being anagrams?"], "timestamp": "2025-09-20T11:59:38.480543"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:39.076073"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:39.076073"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:59:39.076073"}
+{"prompt": "Download image.jpg from URL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:39.933112"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:39.933112"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:39.933112"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "ambiguous", "clarifications": ["Should I implement factorial iteratively or recursively?"], "timestamp": "2025-09-20T11:59:39.948728"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:40.449948"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:40.449948"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:40.465577"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:40.465577"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:40.465577"}
+{"prompt": "Read integers from data.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:40.481206"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:40.481206"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What schema should the new table have?"], "timestamp": "2025-09-20T11:59:40.481206"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:59:41.059925"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:41.753360"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:41.759367"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:41.764363"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:41.765068"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["Are you sure you want to use TensorFlow here? (unsupported in baseline)"], "timestamp": "2025-09-20T11:59:41.765068"}
+{"prompt": "Update salary=5000 where id=2.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.386923"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.386923"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.386923"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.386923"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.402766"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.406763"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T11:59:42.410763"}
+{"prompt": "Delete temp.txt from folder.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.902879"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.918485"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.918485"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:42.918485"}
+{"prompt": "Find max in [3,8,2].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:59:42.934110"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:43.626284"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:43.631292"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:59:43.636569"}
+{"prompt": "Append 'error' to log.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:44.418970"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:44.434209"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:44.434209"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "ambiguous", "clarifications": ["Do you mean a 2D ASCII cube or 3D OpenGL rendering?", "Are you sure you want to use OpenGL here? (unsupported in baseline)"], "timestamp": "2025-09-20T11:59:44.434209"}
+{"prompt": "Reverse characters of 'hello'.", "status": "ambiguous", "clarifications": ["Do you want to reverse characters or words?"], "timestamp": "2025-09-20T11:59:45.904367"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:46.511414"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-20T11:59:46.511414"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:47.277571"}
+{"prompt": "List of 1e8 zeros.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:47.277571"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:47.293193"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "ambiguous", "clarifications": ["Do you want word frequency or character frequency?"], "timestamp": "2025-09-20T11:59:47.293193"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:59:47.949733"}
+{"prompt": "Build full chess game in Python.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:48.636934"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:48.643262"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:48.649260"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:48.654552"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["Should I include authentication or custom headers?"], "timestamp": "2025-09-20T11:59:48.661565"}
+{"prompt": "Create folder 'backup'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:49.192026"}
+{"prompt": "Catch HTTPError on 404.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:49.197005"}
+{"prompt": "Count lines in story.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:49.200058"}
+{"prompt": "Check if notes.txt exists.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:49.200058"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:49.200058"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:49.200058"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:49.215686"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:49.215686"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:49.215686"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What timeout duration should I use for the request?", "Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:59:49.215686"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:50.387733"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:53.464964"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:59:53.480608"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:54.934814"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:54.934814"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:54.934814"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["Should I include authentication or custom headers?"], "timestamp": "2025-09-20T11:59:54.950443"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:55.668152"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:55.683790"}
+{"prompt": "Update salary=5000 where id=2.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:55.683790"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:55.683790"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:55.699382"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:55.699382"}
+{"prompt": "Count lines in story.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:55.699382"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What timeout duration should I use for the request?", "Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T11:59:55.715026"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "ambiguous", "clarifications": ["Should I implement factorial iteratively or recursively?"], "timestamp": "2025-09-20T11:59:57.199950"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:57.683646"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:57.683646"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:57.699236"}
+{"prompt": "Create folder 'backup'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:57.699236"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:57.715225"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:57.720224"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:57.736405"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:57.742403"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:57.748864"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T11:59:57.755030"}
+{"prompt": "Delete temp.txt from folder.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:58.309645"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:58.324885"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:58.324885"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:58.324885"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:58.340504"}
+{"prompt": "Append 'error' to log.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:58.340504"}
+{"prompt": "Find max in [3,8,2].", "status": "ambiguous", "clarifications": ["Find maximum in what (list, dict, matrix)?"], "timestamp": "2025-09-20T11:59:58.340504"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:59.011640"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:59.011640"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:59.011640"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T11:59:59.029620"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "ambiguous", "clarifications": ["Do you mean a 2D ASCII cube or 3D OpenGL rendering?", "Are you sure you want to use OpenGL here? (unsupported in baseline)"], "timestamp": "2025-09-20T11:59:59.034613"}
+{"prompt": "Read integers from data.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:00.287695"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:00.292835"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "ambiguous", "clarifications": ["Should I ignore case and spaces when checking palindrome?"], "timestamp": "2025-09-20T12:00:00.298842"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:00.965249"}
+{"prompt": "Download image.jpg from URL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:00.965249"}
+{"prompt": "List of 1e8 zeros.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:00.965249"}
+{"prompt": "Reverse characters of 'hello'.", "status": "ambiguous", "clarifications": ["Do you want to reverse characters or words?"], "timestamp": "2025-09-20T12:00:00.965249"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:01.714726"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "ambiguous", "clarifications": ["Do you want word frequency or character frequency?"], "timestamp": "2025-09-20T12:00:01.714726"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:02.559411"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:02.559411"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:02.559411"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:02.575041"}
+{"prompt": "Singly linked list traversal.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:02.575041"}
+{"prompt": "Implement stack class with push/pop.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:02.590682"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-20T12:00:02.590682"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T12:00:03.333439"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:03.933181"}
+{"prompt": "Build full chess game in Python.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:03.933181"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["Are you sure you want to use TensorFlow here? (unsupported in baseline)"], "timestamp": "2025-09-20T12:00:03.948780"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "ambiguous", "clarifications": ["What type of data do you want to sort (list, dictionary, dataframe)?"], "timestamp": "2025-09-20T12:00:04.594638"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:05.199261"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:05.214874"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["Do you want current system time, execution time, or formatted date?"], "timestamp": "2025-09-20T12:00:05.214874"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "ambiguous", "clarifications": ["Which two words should I compare for being anagrams?"], "timestamp": "2025-09-20T12:00:05.845933"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:06.497101"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:06.502098"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:06.508101"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:06.511208"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:06.511208"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:06.511208"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What schema should the new table have?"], "timestamp": "2025-09-20T12:00:06.526832"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Do you want a safe check before dropping the table?"], "timestamp": "2025-09-20T12:00:07.308291"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:13.762276"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:00:17.964390"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:22.949490"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in?"], "timestamp": "2025-09-20T12:00:25.320532"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:00:30.481284"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:34.156948"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:00:36.580764"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:00:40.496417"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:45.199441"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:00:47.934094"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or rules do you want the chess game to include?"], "timestamp": "2025-09-20T12:00:53.372283"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "ambiguous", "clarifications": ["What specific action do you want to perform with the POST request?"], "timestamp": "2025-09-20T12:01:06.913271"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:01:12.653222"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:01:22.761663"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "ambiguous", "clarifications": ["What starting node should be used for the BFS?"], "timestamp": "2025-09-20T12:01:25.340601"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:01:32.685804"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:01:36.649927"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should I delete temp.txt from?"], "timestamp": "2025-09-20T12:01:40.450499"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:01:52.465813"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:01:56.904281"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:01:59.216103"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:02:01.543688"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:02:05.839447"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:02:08.480906"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:02:11.606026"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:02:18.872365"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:02:22.021486"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:02:24.213970"}
+{"prompt": "Singly linked list traversal.", "status": "ambiguous", "clarifications": ["What specific operation or information do you need regarding singly linked list traversal?"], "timestamp": "2025-09-20T12:02:27.011980"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:02:31.920752"}
+{"prompt": "Count rows in students table.", "status": "ambiguous", "clarifications": ["What database system are you using for the students table?"], "timestamp": "2025-09-20T12:02:35.873815"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:02:40.838105"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:02:43.918573"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:02:46.715061"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., as a string, array, etc.)?"], "timestamp": "2025-09-20T12:02:55.622866"}
+{"prompt": "Check if notes.txt exists.", "status": "ambiguous", "clarifications": ["What should be done if notes.txt does not exist?"], "timestamp": "2025-09-20T12:02:59.261442"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What URL should the GET request be sent to?"], "timestamp": "2025-09-20T12:03:03.015922"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["What specific task or dataset do you want to use for training the CNN?"], "timestamp": "2025-09-20T12:03:10.153115"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What criteria should be used to determine if the email is valid?"], "timestamp": "2025-09-20T12:03:19.730614"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:03:24.589557"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:03:31.168622"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:03:35.014969"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:03:39.562216"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:03:44.542801"}
+{"prompt": "Catch HTTPError on 404.", "status": "ambiguous", "clarifications": ["What programming language or framework are you using to catch the HTTPError?"], "timestamp": "2025-09-20T12:03:48.730659"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:03:52.981615"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:03:55.013556"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:03:59.964599"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:04:02.371004"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:04:05.605164"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific issue or question do you have regarding the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:04:08.179417"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format should the data be saved in (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:04:15.714341"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific format or content should the 'error' message have when appending to log.txt?"], "timestamp": "2025-09-20T12:04:30.589252"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:04:33.854853"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:04:36.652147"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:04:39.402412"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the response from the /users endpoint?"], "timestamp": "2025-09-20T12:04:41.886268"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["What is the URL from which to download the image?"], "timestamp": "2025-09-20T12:04:49.480310"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:04:53.464317"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:04:55.918321"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:04:58.542755"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:05:01.230887"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:05:05.419308"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:05:08.230339"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the Queue class to have beyond enqueue and dequeue?"], "timestamp": "2025-09-20T12:05:11.261286"}
+{"prompt": "Create folder 'backup'.", "status": "ambiguous", "clarifications": ["What location should the 'backup' folder be created in?"], "timestamp": "2025-09-20T12:05:17.168479"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:05:20.605070"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to drop the 'logs' table, as this action will permanently delete all data in it?"], "timestamp": "2025-09-20T12:05:23.323661"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:05:30.544408"}
+{"prompt": "Implement stack class with push/pop.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the stack class to include besides push and pop?"], "timestamp": "2025-09-20T12:05:50.996464"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:06:08.183229"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:06:10.914682"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or functionalities do you want the chess game to have?"], "timestamp": "2025-09-20T12:06:15.609667"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:06:44.762020"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific method do you want to use to append 'error' to log.txt?"], "timestamp": "2025-09-20T12:06:47.324035"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:06:50.222316"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:06:53.887507"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:06:56.089675"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:06:58.480373"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:07:00.633594"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:07:02.622870"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:07:08.387126"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:07:12.934039"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:07:15.215942"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:07:19.223250"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:07:21.684939"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:07:25.575346"}
+{"prompt": "Catch HTTPError on 404.", "status": "ambiguous", "clarifications": ["What programming language or framework are you using to catch the HTTPError?"], "timestamp": "2025-09-20T12:07:27.855704"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:07:32.058572"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:07:35.012330"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["What is the URL from which to download the image?"], "timestamp": "2025-09-20T12:07:41.747090"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:07:45.152405"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., a Python list, a string, etc.)?"], "timestamp": "2025-09-20T12:07:48.214535"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "ambiguous", "clarifications": ["What method do you want to use for merging the files (e.g., line by line, concatenation)?"], "timestamp": "2025-09-20T12:07:54.027410"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:07:57.870531"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:08:00.495638"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:08:03.188379"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format should the data be saved in (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:08:08.903225"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific issue or question do you have regarding the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:08:12.167938"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:08:15.386546"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:08:18.918027"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:08:22.839326"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "ambiguous", "clarifications": ["What specific response or outcome are you expecting from the POST request?"], "timestamp": "2025-09-20T12:08:25.542990"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in?"], "timestamp": "2025-09-20T12:08:32.308932"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:08:35.465196"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:08:38.151956"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:08:40.574972"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:08:52.653925"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:08:55.143631"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:00.230236"}
+{"prompt": "Create folder 'backup'.", "status": "ambiguous", "clarifications": ["What location should the 'backup' folder be created in?"], "timestamp": "2025-09-20T12:09:02.824559"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:09:05.465904"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:08.638324"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:10.745480"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:13.168294"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:15.335330"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:19.637942"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should I delete temp.txt from?"], "timestamp": "2025-09-20T12:09:21.747094"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:27.058689"}
+{"prompt": "Count rows in students table.", "status": "ambiguous", "clarifications": ["What database system are you using for the students table?"], "timestamp": "2025-09-20T12:09:29.589665"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to delete the entire 'logs' table, including all its data?"], "timestamp": "2025-09-20T12:09:33.269523"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:39.730531"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "ambiguous", "clarifications": ["What programming language should be used for parsing the JSON?"], "timestamp": "2025-09-20T12:09:42.028896"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:45.496696"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:09:48.387814"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:55.980411"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:09:58.434473"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What criteria should be used to determine if the email is valid?"], "timestamp": "2025-09-20T12:10:01.512833"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific functionality or features do you want the Queue class to have?"], "timestamp": "2025-09-20T12:10:06.404029"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:10:10.293540"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What is the URL you want to send the GET request to?"], "timestamp": "2025-09-20T12:10:13.433960"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:10:19.685674"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:10:23.293962"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:10:26.194110"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the data returned from the /users endpoint?"], "timestamp": "2025-09-20T12:10:28.434275"}
+{"prompt": "Singly linked list traversal.", "status": "ambiguous", "clarifications": ["What specific operation or information are you looking for regarding singly linked list traversal?"], "timestamp": "2025-09-20T12:10:35.027047"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:10:39.309958"}
+{"prompt": "Count lines in story.txt.", "status": "ambiguous", "clarifications": ["What specific programming language or method do you want to use to count the lines in story.txt?"], "timestamp": "2025-09-20T12:10:42.276831"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["What specific task or dataset do you want to use for training the CNN?"], "timestamp": "2025-09-20T12:10:45.778813"}
+{"prompt": "Implement stack class with push/pop.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the stack class to include besides push and pop?"], "timestamp": "2025-09-20T12:10:55.668801"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:11:08.542922"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What specific criteria do you want to use to determine if the email is valid?"], "timestamp": "2025-09-20T12:11:13.011746"}
+{"prompt": "Create folder 'backup'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:11:18.169823"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:11:20.534724"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:11:26.304173"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:11:29.090917"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What URL should the GET request be sent to?"], "timestamp": "2025-09-20T12:11:32.402151"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:11:38.589370"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:11:42.090016"}
+{"prompt": "Check if notes.txt exists.", "status": "ambiguous", "clarifications": ["What should be done if notes.txt does not exist?"], "timestamp": "2025-09-20T12:11:44.386934"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:11:47.356681"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:11:49.852349"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:11:52.449118"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to delete the entire 'logs' table, including all its data?"], "timestamp": "2025-09-20T12:11:54.736727"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific issue or question do you have regarding the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:11:58.184436"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:12:04.278085"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:12:06.902782"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:12:09.652170"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:12:13.355310"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:12:15.933491"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:12:20.043460"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:12:24.167378"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:12:27.227062"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:12:30.574346"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:12:35.840276"}
+{"prompt": "Pause 2 seconds.", "status": "ambiguous", "clarifications": ["Pause for what purpose?"], "timestamp": "2025-09-20T12:12:38.949318"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:12:45.058440"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the data returned from the /users endpoint?"], "timestamp": "2025-09-20T12:12:47.573887"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should I delete temp.txt from?"], "timestamp": "2025-09-20T12:12:55.293196"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:13:00.245736"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., as a string, array, etc.)?"], "timestamp": "2025-09-20T12:13:03.293000"}
+{"prompt": "Count lines in story.txt.", "status": "ambiguous", "clarifications": ["What specific programming language or method do you want to use to count the lines in story.txt?"], "timestamp": "2025-09-20T12:13:07.706229"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:13:10.387217"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:13:13.634612"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:13:15.668468"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:13:17.965372"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format do you want the data saved in (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:13:20.810847"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:13:24.246214"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific format or content do you want to append to log.txt?"], "timestamp": "2025-09-20T12:13:26.293327"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:13:29.059618"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:13:31.574838"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:13:35.271108"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:13:38.912553"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:13:41.699928"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:13:44.046857"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or functionalities do you want in the chess game?"], "timestamp": "2025-09-20T12:13:47.450324"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:14:13.527433"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "ambiguous", "clarifications": ["What method do you want to use for merging the files (e.g., line by line, concatenation)?"], "timestamp": "2025-09-20T12:14:16.263156"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:14:19.605356"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "ambiguous", "clarifications": ["What starting node should be used for the BFS?"], "timestamp": "2025-09-20T12:14:21.620746"}
+{"prompt": "Load settings.json and print keys.", "status": "ambiguous", "clarifications": ["What specific keys are you interested in printing from the settings.json file?"], "timestamp": "2025-09-20T12:14:26.038879"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:14:32.527247"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:14:36.884322"}
+{"prompt": "Count rows in students table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:14:40.014459"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:14:44.559556"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:14:47.418190"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:14:49.590510"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:14:52.559126"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:14:54.246378"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:15:06.700466"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["What is the URL from which to download the image?"], "timestamp": "2025-09-20T12:15:09.033609"}
+{"prompt": "Singly linked list traversal.", "status": "ambiguous", "clarifications": ["What specific operation or information are you looking for regarding singly linked list traversal?"], "timestamp": "2025-09-20T12:15:11.917730"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:15:15.122369"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:15:17.855912"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific functionality or features do you want the Queue class to have?"], "timestamp": "2025-09-20T12:15:20.199143"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:15:23.804859"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in?"], "timestamp": "2025-09-20T12:15:26.996367"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:15:34.153306"}
+{"prompt": "Catch HTTPError on 404.", "status": "ambiguous", "clarifications": ["What programming language or framework are you using to catch the HTTPError?"], "timestamp": "2025-09-20T12:15:39.795211"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:15:46.333060"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:15:53.496861"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to delete the entire 'logs' table, including all its data?"], "timestamp": "2025-09-20T12:15:55.871360"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:15:59.154345"}
+{"prompt": "Implement stack class with push/pop.", "status": "ambiguous", "clarifications": ["What specific features or behaviors do you want the stack class to have (e.g., size limit, error handling)?"], "timestamp": "2025-09-20T12:16:02.169098"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:16:06.683985"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:16:11.042675"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:16:13.418378"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:16:16.308168"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:16:18.199829"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["What is the URL from which to download the image?"], "timestamp": "2025-09-20T12:16:20.746035"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:16:23.827171"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What specific criteria do you want to use to determine if the email is valid?"], "timestamp": "2025-09-20T12:16:28.648950"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:16:32.855335"}
+{"prompt": "Pause 2 seconds.", "status": "ambiguous", "clarifications": ["Pause for what purpose?"], "timestamp": "2025-09-20T12:16:35.028577"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "ambiguous", "clarifications": ["What starting node should be used for the BFS?"], "timestamp": "2025-09-20T12:16:40.949788"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:16:45.184436"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:16:47.574471"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:16:49.371218"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:16:51.683548"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the response from the /users endpoint?"], "timestamp": "2025-09-20T12:16:54.810185"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:17:01.622051"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific context or problem are you referring to with the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:17:05.355519"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "ambiguous", "clarifications": ["What method do you want to use for merging the files (e.g., line by line, concatenating, etc.)?"], "timestamp": "2025-09-20T12:17:11.824126"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:17:15.512227"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the Queue class to have beyond enqueue and dequeue?"], "timestamp": "2025-09-20T12:17:18.059214"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:17:23.418956"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["What specific task or dataset do you want to use for training the CNN?"], "timestamp": "2025-09-20T12:17:26.075937"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:17:33.721327"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:17:36.824047"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:17:42.249356"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:17:44.388360"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:17:47.511263"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "ambiguous", "clarifications": ["What specific action do you want to perform with the POST request?"], "timestamp": "2025-09-20T12:17:52.106427"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:17:57.980289"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should I delete temp.txt from?"], "timestamp": "2025-09-20T12:18:00.652433"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:05.262026"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:07.428279"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:10.027557"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:12.136943"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:15.738419"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:18:21.184048"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:18:24.903638"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific format or content do you want to append to log.txt?"], "timestamp": "2025-09-20T12:18:28.373661"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in?"], "timestamp": "2025-09-20T12:18:31.246370"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:33.730144"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:36.027865"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:46.246557"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:18:48.574741"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:52.480446"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:18:54.872809"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., a Python list, a string, etc.)?"], "timestamp": "2025-09-20T12:18:57.371535"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:19:02.666661"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:19:05.480877"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:19:08.684081"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or rules do you want the chess game to include?"], "timestamp": "2025-09-20T12:19:12.839615"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:19:23.664713"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:19:25.653460"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:19:27.510857"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What URL should the GET request be sent to?"], "timestamp": "2025-09-20T12:19:29.856191"}
+{"prompt": "Create folder 'backup'.", "status": "ambiguous", "clarifications": ["What location should the 'backup' folder be created in?"], "timestamp": "2025-09-20T12:19:36.871658"}
+{"prompt": "Catch HTTPError on 404.", "status": "ambiguous", "clarifications": ["What programming language or framework are you using to catch the HTTPError?"], "timestamp": "2025-09-20T12:19:39.902774"}
+{"prompt": "Count lines in story.txt.", "status": "ambiguous", "clarifications": ["What specific programming language or method do you want to use to count the lines in story.txt?"], "timestamp": "2025-09-20T12:19:46.246530"}
+{"prompt": "Check if notes.txt exists.", "status": "ambiguous", "clarifications": ["What should be done if notes.txt does not exist?"], "timestamp": "2025-09-20T12:19:49.903051"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:19:52.880358"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:19:55.684160"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:19:57.707918"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:20:00.089983"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:20:02.168154"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:20:04.486683"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format do you want the data saved in (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:20:09.886684"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the data returned from the /users endpoint?"], "timestamp": "2025-09-20T12:20:19.050821"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:20:25.616585"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:20:29.060027"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:20:32.397889"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:20:37.574762"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What URL should the GET request be sent to?"], "timestamp": "2025-09-20T12:20:41.293395"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:20:46.339256"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:20:48.469084"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:20:53.889311"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:20:57.512813"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:00.246230"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:02.387077"}
+{"prompt": "Count lines in story.txt.", "status": "ambiguous", "clarifications": ["What specific method or programming language do you want to use to count the lines in story.txt?"], "timestamp": "2025-09-20T12:21:04.448947"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:21:08.012850"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:10.699984"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:13.387926"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:16.527509"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:18.557969"}
+{"prompt": "Create folder 'backup'.", "status": "ambiguous", "clarifications": ["What location should the 'backup' folder be created in?"], "timestamp": "2025-09-20T12:21:20.998676"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the Queue class to have beyond enqueue and dequeue?"], "timestamp": "2025-09-20T12:21:23.741987"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:27.607772"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:21:30.151487"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:33.652792"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format do you want the data saved in (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:21:36.355342"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:21:39.683976"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should I delete temp.txt from?"], "timestamp": "2025-09-20T12:21:44.139865"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:50.528019"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:52.791591"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:56.669026"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:21:58.577231"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific method or programming language should be used to append 'error' to log.txt?"], "timestamp": "2025-09-20T12:22:02.355284"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:22:06.184353"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What specific criteria do you want to use to determine if the email is valid?"], "timestamp": "2025-09-20T12:22:08.683704"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:22:13.293038"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "ambiguous", "clarifications": ["What starting node should be used for the BFS?"], "timestamp": "2025-09-20T12:22:15.731279"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:22:20.169024"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:22:23.356336"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:22:47.496203"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "ambiguous", "clarifications": ["What specific action or response do you expect from the API after posting the JSON?"], "timestamp": "2025-09-20T12:22:51.465190"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:22:56.996232"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "ambiguous", "clarifications": ["What format do you want the name printed in?"], "timestamp": "2025-09-20T12:22:59.652856"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["Which URL should I use to download the image?"], "timestamp": "2025-09-20T12:23:02.433866"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., a Python list, a string, etc.)?"], "timestamp": "2025-09-20T12:23:06.107085"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:23:12.044273"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:23:13.903321"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:23:16.043690"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:23:18.152897"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:23:20.324992"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:23:22.903247"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:23:25.839322"}
+{"prompt": "Singly linked list traversal.", "status": "ambiguous", "clarifications": ["What specific operation or information are you looking for regarding singly linked list traversal?"], "timestamp": "2025-09-20T12:23:31.560197"}
+{"prompt": "Implement stack class with push/pop.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the stack class to include beyond push and pop?"], "timestamp": "2025-09-20T12:23:35.513301"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific issue or question do you have regarding the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:23:41.479962"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:23:45.136488"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:23:47.152694"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or functionalities do you want the chess game to have?"], "timestamp": "2025-09-20T12:23:49.865706"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["What specific task or dataset do you want to use for training the CNN?"], "timestamp": "2025-09-20T12:24:18.731244"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:24:29.684148"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:24:32.106165"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:24:34.434129"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:24:36.921617"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:24:43.848701"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:24:46.018891"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:24:49.072867"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:24:52.260827"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:24:55.217954"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:24:57.585867"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:25:00.584809"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:25:04.371424"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to delete the entire 'logs' table, including all its data?"], "timestamp": "2025-09-20T12:25:07.740525"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:25:19.456649"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:25:20.493921"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:25:22.935395"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in?"], "timestamp": "2025-09-20T12:25:24.633536"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:25:26.980599"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:25:29.654843"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:25:30.434356"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:25:34.082441"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:25:35.248307"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:25:37.482881"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or functionalities do you want in the chess game?"], "timestamp": "2025-09-20T12:25:39.078512"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "ambiguous", "clarifications": ["What specific response or outcome are you expecting from the POST request?"], "timestamp": "2025-09-20T12:25:41.213611"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:25:43.395443"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:25:44.714682"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "ambiguous", "clarifications": ["What starting node should be used for the BFS?"], "timestamp": "2025-09-20T12:25:45.479964"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:25:47.371175"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:25:49.739121"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should I delete temp.txt from?"], "timestamp": "2025-09-20T12:25:52.708147"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "ambiguous", "clarifications": ["What method or tool would you like to use for merging the files?"], "timestamp": "2025-09-20T12:25:54.900872"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:25:57.126849"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:25:59.286739"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:00.044032"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:01.393107"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:26:02.199296"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:04.308651"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:06.325712"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:07.560191"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:08.237678"}
+{"prompt": "Singly linked list traversal.", "status": "ambiguous", "clarifications": ["What specific operation or information do you need regarding singly linked list traversal?"], "timestamp": "2025-09-20T12:26:09.931799"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:12.302780"}
+{"prompt": "Count rows in students table.", "status": "ambiguous", "clarifications": ["What database system are you using?"], "timestamp": "2025-09-20T12:26:14.414654"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:26:16.832686"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:18.792965"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:19.631881"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., as a string, array, etc.)?"], "timestamp": "2025-09-20T12:26:21.640604"}
+{"prompt": "Check if notes.txt exists.", "status": "ambiguous", "clarifications": ["What should be done if notes.txt does not exist?"], "timestamp": "2025-09-20T12:26:23.735703"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What is the URL you want to send the GET request to?"], "timestamp": "2025-09-20T12:26:26.034828"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["What specific task or dataset do you want to use for training the CNN?"], "timestamp": "2025-09-20T12:26:28.294030"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What criteria should be used to determine if the email is valid?"], "timestamp": "2025-09-20T12:26:30.540788"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:32.858720"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:26:33.711704"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:26:35.467884"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:37.498196"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:26:38.788873"}
+{"prompt": "Catch HTTPError on 404.", "status": "ambiguous", "clarifications": ["What programming language or framework are you using to catch the HTTPError?"], "timestamp": "2025-09-20T12:26:41.198732"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:43.145448"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:44.459014"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:45.097075"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:46.628442"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:47.942992"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific issue or question do you have regarding the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:26:49.867371"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format should the data be saved in (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:26:52.207162"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific format or content should the 'error' message have when appended to log.txt?"], "timestamp": "2025-09-20T12:26:54.683707"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:56.163423"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:56.885566"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:26:57.551679"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the response from the /users endpoint?"], "timestamp": "2025-09-20T12:26:59.438192"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["What is the URL from which to download the image?"], "timestamp": "2025-09-20T12:27:01.889224"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:04.162259"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:05.437583"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:06.134319"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:27:07.783398"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:09.772694"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:11.185445"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific functionality or features do you want the Queue class to have?"], "timestamp": "2025-09-20T12:27:12.800981"}
+{"prompt": "Create folder 'backup'.", "status": "ambiguous", "clarifications": ["What location should the folder 'backup' be created in?"], "timestamp": "2025-09-20T12:27:15.335772"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:16.906212"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to delete the entire 'logs' table, including all its data?"], "timestamp": "2025-09-20T12:27:18.458915"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:20.650568"}
+{"prompt": "Implement stack class with push/pop.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the stack class to include beyond push and pop?"], "timestamp": "2025-09-20T12:27:22.744901"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:32.782470"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:35.192580"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or rules do you want the chess game to include?"], "timestamp": "2025-09-20T12:27:37.232795"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:40.418181"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific format or content do you want to append to log.txt?"], "timestamp": "2025-09-20T12:27:43.089448"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:27:46.615312"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:49.327447"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:50.706361"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:51.232940"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:51.730403"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:52.542938"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:27:53.825355"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:56.000845"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:57.326916"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:27:58.600810"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:27:59.306382"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:01.407393"}
+{"prompt": "Catch HTTPError on 404.", "status": "ambiguous", "clarifications": ["What programming language or framework are you using to catch the HTTPError?"], "timestamp": "2025-09-20T12:28:03.407091"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:05.669155"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:28:07.461049"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["What is the URL from which to download the image?"], "timestamp": "2025-09-20T12:28:10.003379"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:28:12.546192"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., a Python list, a string, etc.)?"], "timestamp": "2025-09-20T12:28:15.105892"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:16.982471"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:28:18.452141"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:19.853804"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:28:21.625980"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format should the data be saved in the file (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:28:23.006311"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific issue or question do you have regarding the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:28:25.314274"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:27.554102"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:28:28.592725"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:31.297437"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "ambiguous", "clarifications": ["What specific action do you want to perform with the JSON data at the /api endpoint?"], "timestamp": "2025-09-20T12:28:32.927511"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in?"], "timestamp": "2025-09-20T12:28:35.217114"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:37.258511"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:37.969458"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:41.049631"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:42.785789"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:43.381515"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:45.290869"}
+{"prompt": "Create folder 'backup'.", "status": "ambiguous", "clarifications": ["What location should the 'backup' folder be created in?"], "timestamp": "2025-09-20T12:28:47.924796"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:28:49.825912"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:51.998620"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:54.050037"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:55.505403"}
+{"prompt": "Pause 2 seconds.", "status": "ambiguous", "clarifications": ["Pause for what purpose?"], "timestamp": "2025-09-20T12:28:56.186998"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:28:57.694548"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should the file temp.txt be deleted from?"], "timestamp": "2025-09-20T12:28:59.528647"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:01.361290"}
+{"prompt": "Count rows in students table.", "status": "ambiguous", "clarifications": ["What database system are you using?"], "timestamp": "2025-09-20T12:29:02.787247"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to drop the table named \"logs\"?"], "timestamp": "2025-09-20T12:29:05.170479"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:07.318122"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:08.944815"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:10.396832"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:29:11.158679"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:13.403580"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:14.739414"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What criteria should be used to determine if the email is valid?"], "timestamp": "2025-09-20T12:29:16.463503"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific functionality or features do you want the Queue class to have?"], "timestamp": "2025-09-20T12:29:18.805796"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:29:21.688164"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What URL should the GET request be sent to?"], "timestamp": "2025-09-20T12:29:23.909517"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:26.043191"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:29:27.694383"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:29.004184"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the data returned from the /users endpoint?"], "timestamp": "2025-09-20T12:29:30.567534"}
+{"prompt": "Singly linked list traversal.", "status": "ambiguous", "clarifications": ["What specific operation or information do you need regarding singly linked list traversal?"], "timestamp": "2025-09-20T12:29:32.771083"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:34.937399"}
+{"prompt": "Count lines in story.txt.", "status": "ambiguous", "clarifications": ["What specific programming language or method do you want to use to count the lines in story.txt?"], "timestamp": "2025-09-20T12:29:36.882555"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["What specific task or dataset do you want to use for training the CNN?"], "timestamp": "2025-09-20T12:29:39.707973"}
+{"prompt": "Implement stack class with push/pop.", "status": "ambiguous", "clarifications": ["What specific features or behaviors do you want the stack class to have (e.g., size limit, error handling)?"], "timestamp": "2025-09-20T12:29:44.023206"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:29:51.624576"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What criteria should be used to determine if the email is valid?"], "timestamp": "2025-09-20T12:29:55.865942"}
+{"prompt": "Create folder 'backup'.", "status": "ambiguous", "clarifications": ["What location should the folder 'backup' be created in?"], "timestamp": "2025-09-20T12:29:58.732426"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:29:59.913958"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:01.291694"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:30:02.015580"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What URL should the GET request be sent to?"], "timestamp": "2025-09-20T12:30:04.347237"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:06.572209"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:08.771882"}
+{"prompt": "Check if notes.txt exists.", "status": "ambiguous", "clarifications": ["What should be done if notes.txt does not exist?"], "timestamp": "2025-09-20T12:30:11.273766"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:13.693308"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:14.340120"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:15.070406"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to delete the entire 'logs' table, including all its data?"], "timestamp": "2025-09-20T12:30:19.795680"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific issue or question do you have regarding the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:30:22.764634"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:25.682108"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:27.251350"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:30:28.773754"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:30.862427"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:32.354773"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "ambiguous", "clarifications": ["What specific response or outcome are you expecting from the POST request?"], "timestamp": "2025-09-20T12:30:33.959007"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:35.999827"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:36.870272"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:38.326788"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:30:40.078546"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:42.886546"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:43.371165"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the data returned from the /users endpoint?"], "timestamp": "2025-09-20T12:30:45.080924"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should I delete temp.txt from?"], "timestamp": "2025-09-20T12:30:47.650194"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:49.906891"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., a Python list, a string, etc.)?"], "timestamp": "2025-09-20T12:30:52.424138"}
+{"prompt": "Count lines in story.txt.", "status": "ambiguous", "clarifications": ["What specific programming language or method would you like to use to count the lines in story.txt?"], "timestamp": "2025-09-20T12:30:54.599048"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:30:57.604778"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:30:59.692846"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:00.465460"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:01.873984"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format should the data be saved in (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:31:03.951104"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:06.345239"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific format or content should the 'error' message have when appending to log.txt?"], "timestamp": "2025-09-20T12:31:08.399462"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:09.947324"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:10.538505"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:31:12.272617"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:13.672863"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:15.359737"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:31:16.731662"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or functionalities do you want the chess game to have?"], "timestamp": "2025-09-20T12:31:22.353598"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:24.470312"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "ambiguous", "clarifications": ["What method do you want to use for merging the files (e.g., line by line, concatenation)?"], "timestamp": "2025-09-20T12:31:26.167667"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:28.244393"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "ambiguous", "clarifications": ["What starting node should be used for the BFS?"], "timestamp": "2025-09-20T12:31:29.189068"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:31.572221"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:31:33.414937"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:31:36.722810"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:38.709282"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:31:40.517144"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:43.449843"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:31:44.310882"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:45.502017"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:48.829627"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:50.798706"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["What is the URL from which to download the image?"], "timestamp": "2025-09-20T12:31:52.174417"}
+{"prompt": "Singly linked list traversal.", "status": "ambiguous", "clarifications": ["What specific operation or information are you looking for regarding singly linked list traversal?"], "timestamp": "2025-09-20T12:31:55.050975"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:57.688223"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:31:58.734435"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific functionality or features do you want the Queue class to have?"], "timestamp": "2025-09-20T12:31:59.617831"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:32:01.586471"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in?"], "timestamp": "2025-09-20T12:32:03.896494"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:06.011719"}
+{"prompt": "Catch HTTPError on 404.", "status": "ambiguous", "clarifications": ["What programming language or framework are you using to catch the HTTPError?"], "timestamp": "2025-09-20T12:32:07.199669"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:09.337764"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:16.491008"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to delete the entire 'logs' table, including all its data?"], "timestamp": "2025-09-20T12:32:18.425986"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:20.627879"}
+{"prompt": "Implement stack class with push/pop.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the stack class to include beyond push and pop?"], "timestamp": "2025-09-20T12:32:22.673119"}
+{"prompt": "Run 'echo hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:24.029948"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:25.393720"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:27.417266"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:28.031554"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:28.519451"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["What is the URL from which to download the image?"], "timestamp": "2025-09-20T12:32:30.288916"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:32.895975"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What specific criteria do you want to use to determine if the email is valid?"], "timestamp": "2025-09-20T12:32:34.400755"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:36.753340"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:37.296533"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "ambiguous", "clarifications": ["What starting node should be used for the BFS?"], "timestamp": "2025-09-20T12:32:38.019362"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:32:39.857009"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:41.100083"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:42.381914"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:32:44.242195"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the data returned from the /users endpoint?"], "timestamp": "2025-09-20T12:32:46.556605"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:32:49.015430"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific issue or question do you have regarding the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:32:51.211906"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "ambiguous", "clarifications": ["What method do you want to use for merging the files (e.g., line by line, concatenation)?"], "timestamp": "2025-09-20T12:32:53.575097"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:55.577018"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the Queue class to include beyond enqueue and dequeue?"], "timestamp": "2025-09-20T12:32:57.631627"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:32:59.857138"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["What specific task or dataset do you want to use for training the CNN?"], "timestamp": "2025-09-20T12:33:01.726686"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:33:03.914515"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:06.067346"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:06.619507"}
+{"prompt": "Count rows in students table.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:07.140905"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:33:08.683352"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "ambiguous", "clarifications": ["What specific action do you want to perform with the POST request?"], "timestamp": "2025-09-20T12:33:17.830409"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:19.882019"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should I delete temp.txt from?"], "timestamp": "2025-09-20T12:33:21.106724"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:23.162871"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:24.472204"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:25.954988"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:27.270841"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:28.758772"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:33:30.309476"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:33:32.808920"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific format or content do you want to append to log.txt?"], "timestamp": "2025-09-20T12:33:34.237531"}
+{"prompt": "Parse '{\"a\":1,\"b\":2}' \u2192 print keys.", "status": "ambiguous", "clarifications": ["What format do you want the keys printed in?"], "timestamp": "2025-09-20T12:33:36.352700"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:38.373087"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:40.941900"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:42.941807"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:33:43.666548"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:45.696729"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:46.197645"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., a Python list, a string, etc.)?"], "timestamp": "2025-09-20T12:33:48.005552"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:33:50.503800"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:52.382118"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:33:54.136471"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or rules do you want the chess game to include?"], "timestamp": "2025-09-20T12:33:56.316974"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:33:58.327361"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:00.039853"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "ambiguous", "clarifications": ["What format do you want the name printed in?"], "timestamp": "2025-09-20T12:34:01.614802"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What URL should the GET request be sent to?"], "timestamp": "2025-09-20T12:34:04.119346"}
+{"prompt": "Create folder 'backup'.", "status": "ambiguous", "clarifications": ["What location should the 'backup' folder be created in?"], "timestamp": "2025-09-20T12:34:06.190416"}
+{"prompt": "Catch HTTPError on 404.", "status": "ambiguous", "clarifications": ["What programming language or framework are you using to catch the HTTPError?"], "timestamp": "2025-09-20T12:34:07.550585"}
+{"prompt": "Count lines in story.txt.", "status": "ambiguous", "clarifications": ["What specific programming language or method do you want to use to count the lines in story.txt?"], "timestamp": "2025-09-20T12:34:10.093524"}
+{"prompt": "Check if notes.txt exists.", "status": "ambiguous", "clarifications": ["What should be done if notes.txt does not exist?"], "timestamp": "2025-09-20T12:34:12.320573"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:34:15.639578"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:18.156685"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:18.924486"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:20.728550"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:22.180845"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:34:23.583400"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format should the data be saved in (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:34:25.389504"}
+{"prompt": "Call /users \u2192 print first 5 names.", "status": "ambiguous", "clarifications": ["What format is the response from the /users endpoint?"], "timestamp": "2025-09-20T12:34:32.988096"}
+{"prompt": "Find max in [12,45,7,89,34].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:38.395738"}
+{"prompt": "Extract phone (123-456-7890) from text.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:39.975372"}
+{"prompt": "Compute factorial(10000).", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:43.300619"}
+{"prompt": "Print date/time in YYYY-MM-DD.", "status": "ambiguous", "clarifications": ["What specific date/time do you want to print?"], "timestamp": "2025-09-20T12:34:44.040466"}
+{"prompt": "Send GET with header {'Auth':'token'}.", "status": "ambiguous", "clarifications": ["What is the URL you want to send the GET request to?"], "timestamp": "2025-09-20T12:34:45.542554"}
+{"prompt": "Merge {'a':1} and {'b':2}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:51.842789"}
+{"prompt": "Pause 2 seconds.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:53.338383"}
+{"prompt": "Update salary=5000 where id=2.", "status": "ambiguous", "clarifications": ["What database are you using for this update?"], "timestamp": "2025-09-20T12:34:53.978360"}
+{"prompt": "Count rows in students table.", "status": "ambiguous", "clarifications": ["What database system are you using for the students table?"], "timestamp": "2025-09-20T12:34:56.803146"}
+{"prompt": "Transpose [[1,2,3],[4,5,6]].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:34:59.005389"}
+{"prompt": "Print value of PATH.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:00.571137"}
+{"prompt": "Count lines in story.txt.", "status": "ambiguous", "clarifications": ["What specific programming language or method would you like to use to count the lines in story.txt?"], "timestamp": "2025-09-20T12:35:02.457724"}
+{"prompt": "GET with 5s timeout.", "status": "ambiguous", "clarifications": ["What resource or URL are you trying to access with the GET request?"], "timestamp": "2025-09-20T12:35:04.790432"}
+{"prompt": "Write a recursive function to calculate factorial of n.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:08.093299"}
+{"prompt": "Binary search 23 in [10,15,20,23,30].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:10.680477"}
+{"prompt": "Find the sum of integers from 1 to 100.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:12.445035"}
+{"prompt": "Find longest word in 'The quick brown fox'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:13.920746"}
+{"prompt": "Create folder 'backup'.", "status": "ambiguous", "clarifications": ["What location should the 'backup' folder be created in?"], "timestamp": "2025-09-20T12:35:18.165868"}
+{"prompt": "Queue class with enqueue/dequeue.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the Queue class to include beyond enqueue and dequeue?"], "timestamp": "2025-09-20T12:35:20.580683"}
+{"prompt": "Run SELECT * FROM students in SQLite.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:24.808075"}
+{"prompt": "Check if '(a+b)' is balanced.", "status": "ambiguous", "clarifications": ["What do you mean by \"balanced\"? Are you referring to the balance of parentheses only?"], "timestamp": "2025-09-20T12:35:25.731763"}
+{"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:28.006907"}
+{"prompt": "Save [1,2,3] to results.txt.", "status": "ambiguous", "clarifications": ["What format should the data be saved in (e.g., plain text, JSON)?"], "timestamp": "2025-09-20T12:35:29.829473"}
+{"prompt": "Find depth of binary tree root-left-right.", "status": "ambiguous", "clarifications": ["What specific method or approach do you want to use to find the depth of the binary tree?"], "timestamp": "2025-09-20T12:35:32.128432"}
+{"prompt": "Delete temp.txt from folder.", "status": "ambiguous", "clarifications": ["Which folder should I delete temp.txt from?"], "timestamp": "2025-09-20T12:35:34.264868"}
+{"prompt": "Find 'cat' in 'concatenate'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:37.768957"}
+{"prompt": "Capitalize each word in 'python coding challenge'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:40.763110"}
+{"prompt": "Find union of {1,2} and {2,3}.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:42.132645"}
+{"prompt": "Print current working directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:45.449300"}
+{"prompt": "Append 'error' to log.txt.", "status": "ambiguous", "clarifications": ["What specific format or content do you want to append to log.txt?"], "timestamp": "2025-09-20T12:35:46.319891"}
+{"prompt": "Find max in [3,8,2].", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:48.258727"}
+{"prompt": "Check 'test@mail.com' valid.", "status": "ambiguous", "clarifications": ["What criteria should be used to determine if the email is valid?"], "timestamp": "2025-09-20T12:35:49.866975"}
+{"prompt": "Generate first 10 Fibonacci numbers.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:51.885651"}
+{"prompt": "Run BFS on {0:[1,2],1:[2],2:[3],3:[]}.", "status": "ambiguous", "clarifications": ["What starting node should be used for the BFS?"], "timestamp": "2025-09-20T12:35:54.426515"}
+{"prompt": "Load settings.json and print keys.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:35:59.261173"}
+{"prompt": "Render rotating 3D cube in OpenGL.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:00.651575"}
+{"prompt": "Read integers from data.txt.", "status": "ambiguous", "clarifications": ["What specific integers or range of integers are you looking to read from data.txt?"], "timestamp": "2025-09-20T12:36:02.459115"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "ambiguous", "clarifications": ["What specific action do you want to perform with the POST request?"], "timestamp": "2025-09-20T12:36:04.663696"}
+{"prompt": "Check if 'madam' is palindrome.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:06.460683"}
+{"prompt": "Parse JSON {'user':'Alice'} and print name.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:06.951012"}
+{"prompt": "Download image.jpg from URL.", "status": "ambiguous", "clarifications": ["What is the URL from which to download the image?"], "timestamp": "2025-09-20T12:36:08.853981"}
+{"prompt": "List of 1e8 zeros.", "status": "ambiguous", "clarifications": ["What format do you want the list of zeros in (e.g., a Python list, a string, etc.)?"], "timestamp": "2025-09-20T12:36:11.333781"}
+{"prompt": "Reverse characters of 'hello'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:13.697681"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:14.322918"}
+{"prompt": "Find word frequency in 'this is a test this is'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:14.995782"}
+{"prompt": "Replace 'cat' with 'dog' in 'The cat sat'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:16.294538"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:17.594575"}
+{"prompt": "Split by multiple spaces in 'a   b c'.", "status": "ambiguous", "clarifications": ["What programming language or method do you want to use for splitting the string?"], "timestamp": "2025-09-20T12:36:19.084437"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:21.967288"}
+{"prompt": "Singly linked list traversal.", "status": "ambiguous", "clarifications": ["What specific operation or information are you looking for regarding singly linked list traversal?"], "timestamp": "2025-09-20T12:36:23.539134"}
+{"prompt": "Implement stack class with push/pop.", "status": "ambiguous", "clarifications": ["What specific features or methods do you want the stack class to include besides push and pop?"], "timestamp": "2025-09-20T12:36:31.533344"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["What specific issue or question do you have regarding the recursive call depth of 2000?"], "timestamp": "2025-09-20T12:36:33.216325"}
+{"prompt": "Sort [9,5,1,7,3] ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:35.304925"}
+{"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:36.065444"}
+{"prompt": "Build full chess game in Python.", "status": "ambiguous", "clarifications": ["What specific features or rules do you want the chess game to include?"], "timestamp": "2025-09-20T12:36:37.549580"}
+{"prompt": "Train CNN with TensorFlow here.", "status": "ambiguous", "clarifications": ["What specific task or dataset do you want to use for training the CNN?"], "timestamp": "2025-09-20T12:36:40.282699"}
+{"prompt": "Sort {'a':3,'b':1,'c':2} by value ascending.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:42.662645"}
+{"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:43.164390"}
+{"prompt": "Sum of digits in 9876.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:44.859968"}
+{"prompt": "Measure time to run loop 1\u201310000.", "status": "ambiguous", "clarifications": ["What specific programming language or environment do you want to use for measuring the time?"], "timestamp": "2025-09-20T12:36:46.747154"}
+{"prompt": "Check if 'listen' and 'silent' are anagrams.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:47.990684"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:49.378843"}
+{"prompt": "Merge a.txt and b.txt into merged.txt.", "status": "ambiguous", "clarifications": ["What method do you want to use for merging the files (e.g., line by line, concatenating, etc.)?"], "timestamp": "2025-09-20T12:36:50.628447"}
+{"prompt": "GET https://example.com \u2192 print status code.", "status": "ambiguous", "clarifications": ["What programming language or environment are you using to make the GET request?"], "timestamp": "2025-09-20T12:36:55.418305"}
+{"prompt": "List files in current directory.", "status": "clear", "clarifications": [], "timestamp": "2025-09-20T12:36:57.763702"}
+{"prompt": "Copy file1.txt \u2192 file2.txt.", "status": "ambiguous", "clarifications": ["What should be done if file2.txt already exists?"], "timestamp": "2025-09-20T12:36:58.764735"}
+{"prompt": "Insert [1,'Alice'] into users table.", "status": "ambiguous", "clarifications": ["What database management system are you using?"], "timestamp": "2025-09-20T12:37:01.110136"}
+{"prompt": "Create table employees(id,name).", "status": "ambiguous", "clarifications": ["What specific attributes or data types should the 'id' and 'name' columns have?"], "timestamp": "2025-09-20T12:37:05.813389"}
+{"prompt": "Drop table logs.", "status": "ambiguous", "clarifications": ["Are you sure you want to delete the entire 'logs' table, including all its data?"], "timestamp": "2025-09-20T12:37:08.043451"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-21T07:31:00.541793"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-21T07:31:07.315305"}
+{"prompt": "Check if 29 is prime.", "status": "clear", "clarifications": [], "timestamp": "2025-09-21T07:31:15.240609"}

@@ -4,3 +4,10 @@
 {"prompt": "Replace all digits in 'abc123' with '*'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-17T21:54:56.628856"}
 {"prompt": "Remove vowels from 'education'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-17T21:54:56.644479"}
 {"prompt": "Extract hashtags from 'Loving #python and #AI'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-17T21:54:56.644479"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "status": "clear", "clarifications": [], "timestamp": "2025-09-21T07:29:32.512902"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-21T07:29:32.579648"}
+{"prompt": "POST JSON {'id':1} to /api.", "status": "clear", "clarifications": [], "timestamp": "2025-09-21T07:29:32.586649"}
+{"prompt": "Check if notes.txt exists.", "status": "clear", "clarifications": [], "timestamp": "2025-09-21T07:29:32.594463"}
+{"prompt": "Find gcd of 48 and 18.", "status": "clear", "clarifications": [], "timestamp": "2025-09-21T07:29:32.617139"}
+{"prompt": "Create folder 'backup'.", "status": "clear", "clarifications": [], "timestamp": "2025-09-21T07:29:32.620284"}
+{"prompt": "Recursive call depth 2000.", "status": "ambiguous", "clarifications": ["Do you want maximum depth, minimum depth, or all levels?"], "timestamp": "2025-09-21T07:29:32.626295"}

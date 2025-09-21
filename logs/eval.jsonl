@@ -4,3 +4,10 @@
 {"prompt": "Replace all digits in 'abc123' with '*'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-17T21:54:56.628856"}
 {"prompt": "Remove vowels from 'education'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-17T21:54:56.644479"}
 {"prompt": "Extract hashtags from 'Loving #python and #AI'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-17T21:54:56.644479"}
+{"prompt": "Count sentences in 'Hello. How are you? Fine.'", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-21T07:29:32.560936"}
+{"prompt": "Extract all integers from 'a1 b22 c333'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-21T07:29:32.582652"}
+{"prompt": "POST JSON {'id':1} to /api.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-21T07:29:32.589463"}
+{"prompt": "Check if notes.txt exists.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-21T07:29:32.596998"}
+{"prompt": "Find gcd of 48 and 18.", "function": "gcd", "status": "pass", "details": "All 2 test cases passed", "timestamp": "2025-09-21T07:29:32.619286"}
+{"prompt": "Create folder 'backup'.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-21T07:29:32.622286"}
+{"prompt": "Recursive call depth 2000.", "function": null, "status": "invalid", "details": "No valid code generated", "timestamp": "2025-09-21T07:29:38.283045"}
