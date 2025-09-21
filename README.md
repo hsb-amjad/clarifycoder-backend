@@ -70,6 +70,35 @@ clarifycoder-backend/
 | **EvalAgent**    | Runs/evaluates code correctness          | Test cases & keyword checks | GPT-4o-mini      |
 | **RefineAgent**  | Repairs failed code using feedback       | Simple text rules       | GPT-4o-mini         |
 
+## 🔀 Modes of Operation
+
+| Mode       | ClarifyAgent | CodeAgent | EvalAgent | RefineAgent | AnswerAgent |
+|------------|-------------|-----------|-----------|-------------|-------------|
+| **Baseline** | Rule-based  | Templates | Test cases & keyword checks | Simple text rules | Human (CLI/Web) |
+| **LLM**      | GPT-4o-mini | GPT-4o-mini | GPT-4o-mini | GPT-4o-mini | GPT-4o-mini |
+| **Hybrid**   | GPT-4o-mini | Rule-based | Rule-based | GPT-4o-mini | Human/LLM |
+
+## 📂 Dataset of Ambiguous Prompts
+
+The system ships with a small benchmark dataset: **`prompts.jsonl`**.
+
+Each line is a JSON object with:
+- **prompt** → original ambiguous/clear task  
+- **clarifications** → clarification questions generated  
+- **solution** → expected clarified solution  
+- **failure_mode** → expected incorrect outcome if clarification is skipped  
+
+📌 Example entry:
+```json
+{
+  "id": 1,
+  "prompt": "Find depth of binary tree",
+  "clarifications": ["Do you mean depth of the entire tree, or a given node?"],
+  "solution": "Function to compute max depth of full binary tree",
+  "failure_mode": "If skipped → code may compute depth of only root"
+}
+```
+
 ## 📊 Evaluation Metrics
 
 | Metric | Formula | Meaning |
@@ -145,6 +174,7 @@ Interactive leaderboard with metrics, plots, and raw log inspection.
 ---
 
 ## 🔬 Research Contribution
+
 - 📑 Novelty: First ambiguity-aware benchmark for code generation
 - 📊 Metrics: ARSR introduced + supporting metrics for clarity, refinement, unresolved cases
 - 🔄 Self-repair loop: Evaluation → refinement cycle for robustness
@@ -155,6 +185,7 @@ Interactive leaderboard with metrics, plots, and raw log inspection.
 ---
 
 ## 📚 Citation
+
 If you use ClarifyCoder-Agent in academic work:
 ```bibtex
 @misc{clarifycoder2025,
@@ -166,10 +197,12 @@ If you use ClarifyCoder-Agent in academic work:
 ```
 
 ## ⭐ Support
+
 If this project helps your research, please star ⭐ the repo.
 Contributions and feedback are welcome!
 
 ## 👤 Author
+
 **Haseeb Amjad** – Mechatronics Engineer | Machine Learning | AI + Robotics | MedTech  
 🌐 [Portfolio](https://my-portfolio-sage-zeta-79.vercel.app)
 💼 [LinkedIn](https://www.linkedin.com/in/hsb-amjad)
