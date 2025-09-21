@@ -120,8 +120,8 @@ Each entry is a single JSON object with the following fields:
 | **ARSR** | (# resolved ambiguous prompts with correct code) ÷ (total ambiguous prompts) | Ambiguity-Resolved Success Rate |
 | **CSR**  | (# correct clear prompts) ÷ (total clear prompts) | Clear Success Rate |
 | **CRR**  | (# prompts needing clarification) ÷ (total ambiguous prompts) | Clarification Request Rate |
-| **USR**  | (# ambiguous solved without clarification) ÷ (total ambiguous prompts) | Unresolved Success Rate |
-| **RFR**  | (# successful refinements) ÷ (total refinement attempts) | Refinement Fix Rate |
+| **USR**  | (# ambiguous solved without clarification) ÷ (total ambiguous prompts) | Unsupported Rate |
+| **RFR**  | (#unsupported prompts) ÷ (total prompts) | Refinement Fix Rate |
 
 ---
 
