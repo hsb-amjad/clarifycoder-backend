@@ -341,21 +341,22 @@ def run_single_prompt(prompt: str, mode: str = "baseline", answers: list = None,
                 "metrics": {}
             }
         ans_result = answer_agent.run(
-            clarifications, clar_result["original_prompt"], answers)
+            clarifications, clar_result["original_prompt"], answers
+        )
         final_prompt = ans_result["augmented_prompt"]
         used_answers = ans_result["answers"]
 
-    # Code
+    # Step 2: Code generation
     code_result = code.run(final_prompt)
     generated_code = code_result["code"]
 
-    # Eval
+    # Step 3: Evaluation
     eval_result = eval_agent.run(generated_code)
 
-    # Refinement
+    # Step 4: Refinement (only if not pass)
     refine_info = None
     rfr = 0.0
-    if eval_result["status"] in ["fail", "error"]:
+    if eval_result["status"] in ["fail", "error", "unsupported", "invalid"]:
         refine_result = refine.run(generated_code, eval_result)
         re_eval_result = eval_agent.run(refine_result["refined_code"])
 
@@ -386,7 +387,7 @@ def run_single_prompt(prompt: str, mode: str = "baseline", answers: list = None,
         "answers": used_answers,
         "output": generated_code,
         "metrics": metrics,
-        "refine": refine_info
+        "refine": refine_info  # will be None if no refinement happened
     }
 
 

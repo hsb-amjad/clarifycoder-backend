@@ -50,5 +50,5 @@ class RefineAgentLLM:
 
         return {
             "refined_code": refined_code,
-            "action": f"Refined with LLM using feedback: {feedback_text[:50]}..."
+            "action": f"Refined with LLM using feedback: {feedback_text}"
         }
