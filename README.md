@@ -172,7 +172,7 @@ Interactive leaderboard with metrics, plots, and raw log inspection.
 
 ### 📈 Bar Chart of Metrics (Baseline vs LLM vs Hybrid)
 <p align="center">
-  <img src="./agentic_clarifycoder/plots/metrics_bar.png" alt="Metrics Bar Chart" width="700"/>
+  <img src="./agentic_clarifycoder/plots/metrics_bar.png" alt="Metrics Bar Chart" width="600"/>
 </p>
 
 ### 📉 Trend Plots for ARSR
@@ -182,7 +182,7 @@ Interactive leaderboard with metrics, plots, and raw log inspection.
 
 ### 🖥️ Dashboard
 <p align="center">
-  <img src="./docs/streamlit.png" alt="Streamlit Leaderboard" width="800"/>
+  <img src="./docs/streamlit.png" alt="Streamlit Leaderboard" width="600"/>
 </p>
 
 ---
