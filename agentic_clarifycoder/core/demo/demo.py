@@ -356,7 +356,7 @@ def run_single_prompt(prompt: str, mode: str = "baseline", answers: list = None,
     # Step 4: Refinement (only if eval failed)
     refine_info = None
     rfr = 0.0
-    if eval_result["status"] in ["fail", "error", "unsupported", "invalid"]:
+    if eval_result["status"] in ["Fail", "Error", "Unsupported", "Invalid"]:
         refine_result = refine.run(generated_code, eval_result)
         re_eval_result = eval_agent.run(refine_result["refined_code"])
 
@@ -366,7 +366,7 @@ def run_single_prompt(prompt: str, mode: str = "baseline", answers: list = None,
             "re_eval_status": re_eval_result["status"]
         }
 
-        if re_eval_result["status"] == "pass":
+        if re_eval_result["status"] == "Pass":
             rfr = 1.0
 
         generated_code = refine_result["refined_code"]
@@ -389,6 +389,7 @@ def run_single_prompt(prompt: str, mode: str = "baseline", answers: list = None,
         "metrics": metrics,
         "refine": refine_info
     }
+
 
 if __name__ == "__main__":
     main()
