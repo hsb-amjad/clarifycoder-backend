@@ -117,7 +117,7 @@ python compare_experiments.py --n_prompts 10 --runs 3 --answer_mode auto
 - 📈 Plots in /plots
 - 📝 Logs in /logs/<timestamp>/
 
-### 4. Streamlit dashboard
+### 4. Streamlit Dashboard
 ```bash
 streamlit run dashboard.py
 ```
