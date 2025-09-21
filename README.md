@@ -58,6 +58,7 @@ clarifycoder-backend/
  ├─ Procfile                         # Heroku/Render deployment
  └─ README.md
 ```
+---
 
 ## 🧩 Agent Responsibilities
 
@@ -78,6 +79,8 @@ clarifycoder-backend/
 | **CRR**  | (# prompts needing clarification) ÷ (total ambiguous prompts) | Clarification Request Rate |
 | **USR**  | (# ambiguous solved without clarification) ÷ (total ambiguous prompts) | Unresolved Success Rate |
 | **RFR**  | (# successful refinements) ÷ (total refinement attempts) | Refinement Fix Rate |
+
+---
 
 ## 🚀 Running the System
 
@@ -119,6 +122,8 @@ streamlit run dashboard.py
 ```
 Interactive leaderboard with metrics, plots, and raw log inspection.
 
+---
+
 ## 📊 Example Outputs
 
 ### 📈 Bar Chart of Metrics (Baseline vs LLM vs Hybrid)
@@ -136,6 +141,8 @@ Interactive leaderboard with metrics, plots, and raw log inspection.
   <img src="./docs/streamlit.png" alt="Streamlit Leaderboard" width="800"/>
 </p>
 
+---
+
 ## 🔬 Research Contribution
 - 📑 Novelty: First ambiguity-aware benchmark for code generation
 - 📊 Metrics: ARSR introduced + supporting metrics for clarity, refinement, unresolved cases
@@ -143,6 +150,8 @@ Interactive leaderboard with metrics, plots, and raw log inspection.
 - 👤 Human-in-the-Loop: Compare human clarifications vs auto-LLM clarifications
 - 📈 Evaluation: Supports HumanEval + MBPP + custom ambiguity dataset
 - 🎯 Hybrid configuration: Best balance between reproducibility (rules) and flexibility (LLMs)
+
+---
 
 ## 📚 Citation
 If you use ClarifyCoder-Agent in academic work:
@@ -155,11 +164,11 @@ If you use ClarifyCoder-Agent in academic work:
 }
 ```
 
+## ⭐ Support
+If this project helps your research, please star ⭐ the repo.
+Contributions and feedback are welcome!
+
 ## 👤 Author
 **Haseeb Amjad** – Mechatronics Engineer | Machine Learning | AI + Robotics | MedTech  
 🌐 [Portfolio](https://my-portfolio-sage-zeta-79.vercel.app)
 💼 [LinkedIn](https://www.linkedin.com/in/hsb-amjad)
-
-## ⭐ Support
-If this project helps your research, please star ⭐ the repo.
-Contributions and feedback are welcome!
