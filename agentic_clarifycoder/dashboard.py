@@ -15,14 +15,26 @@ import matplotlib.pyplot as plt
 
 LOG_DIR = "logs"
 
-
 def load_logs():
+    """
+    Load metrics JSONs from the most recent timestamped folder under LOG_DIR.
+    """
+    # Find all subfolders with timestamp names
+    subdirs = [os.path.join(LOG_DIR, d) for d in os.listdir(LOG_DIR)
+               if os.path.isdir(os.path.join(LOG_DIR, d))]
+
+    if not subdirs:
+        return pd.DataFrame()
+
+    # Pick the latest folder by modification time
+    latest_dir = max(subdirs, key=os.path.getmtime)
+
     rows = []
-    for fname in os.listdir(LOG_DIR):
+    for fname in os.listdir(latest_dir):
         if not fname.endswith(".json"):
             continue
         try:
-            with open(os.path.join(LOG_DIR, fname), "r", encoding="utf-8") as f:
+            with open(os.path.join(latest_dir, fname), "r", encoding="utf-8") as f:
                 entry = json.load(f)
             if "metrics" in entry:
                 row = {"Run": fname}
@@ -30,8 +42,8 @@ def load_logs():
                 rows.append(row)
         except Exception as e:
             print(f"Warning: could not read {fname}: {e}")
-    return pd.DataFrame(rows) if rows else pd.DataFrame()
 
+    return pd.DataFrame(rows) if rows else pd.DataFrame()
 
 def main():
     st.title("📊 ClarifyCoder-Agent Leaderboard")
