@@ -201,7 +201,7 @@ Interactive leaderboard with metrics, plots, and raw log inspection.
 
 ## 📚 Citation
 
-If you use ClarifyCoder-Agent in academic work:
+If you use **ClarifyCoder-Agent (Backend)** in academic work:
 ```bibtex
 @misc{clarifycoder2025,
   title={ClarifyCoder-Agent: Multi-Agent Coding Assistant with Ambiguity Resolution},
