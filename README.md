@@ -162,6 +162,7 @@ python compare_experiments.py --n_prompts 10 --runs 3 --answer_mode auto
 
 ### 4. Streamlit Dashboard
 ```bash
+cd agentic_clarifycoder
 streamlit run dashboard.py
 ```
 Interactive leaderboard with metrics, plots, and raw log inspection.
