@@ -133,7 +133,7 @@ Interactive leaderboard with metrics, plots, and raw log inspection.
 
 ### 🖥️ Streamlit Dashboard
 <p align="center">
-  <img src="./docs/dashboard.png" alt="Streamlit Leaderboard" width="800"/>
+  <img src="./docs/streamlit.png" alt="Streamlit Leaderboard" width="800"/>
 </p>
 
 ## 🔬 Research Contribution
