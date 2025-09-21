@@ -1,0 +1,33 @@
+{
+  "metrics": {
+    "CRR": 50.0,
+    "CSR": 31.428571428571427,
+    "ARSR": 14.285714285714285,
+    "RFR": 0.0,
+    "USR": 75.71428571428571,
+    "Coverage": 22.857142857142858
+  },
+  "outcomes": {
+    "ambiguous": {
+      "pass": 5,
+      "fail": 0,
+      "unsupported": 30,
+      "error": 0,
+      "invalid": 0
+    },
+    "clear": {
+      "pass": 11,
+      "fail": 1,
+      "unsupported": 23,
+      "error": 0,
+      "invalid": 0
+    },
+    "global": {
+      "pass": 16,
+      "fail": 1,
+      "unsupported": 53,
+      "error": 0,
+      "invalid": 0
+    }
+  }
+}
