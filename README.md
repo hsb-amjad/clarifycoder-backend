@@ -131,7 +131,7 @@ Interactive leaderboard with metrics, plots, and raw log inspection.
   <img src="./agentic_clarifycoder/plots/llm_trend.png" alt="LLM ARSR Trend" width="600"/>
 </p>
 
-### 🖥️ Streamlit Dashboard
+### 🖥️ Dashboard
 <p align="center">
   <img src="./docs/streamlit.png" alt="Streamlit Leaderboard" width="800"/>
 </p>
