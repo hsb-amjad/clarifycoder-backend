@@ -84,7 +84,7 @@ clarifycoder-backend/
 
 ## 🚀 Running the System
 
-### 1. Install dependencies
+### 1. Install Dependencies
 ```bash
 git clone https://github.com/hsb-amjad/clarifycoder-backend.git
 cd clarifycoder-backend
@@ -99,19 +99,20 @@ python -m agentic_clarifycoder.core.demo.demo --clarify_mode baseline --code_mod
 # LLM-only agents
 python -m agentic_clarifycoder.core.demo.demo --clarify_mode llm --code_mode llm --eval_mode llm --refine_mode llm --answer_mode auto
 ```
-#### Extra args:
-```lua
---num_prompts N   Number of prompts (default: random 5–10)
---seed S          Random seed
---log_file PATH   Save results in JSON
-```
+- answer_mode can be switched between auto and HIL.
 
-### 3. Run experiments
+### 3. Run Comparison-Experiments
 ```bash
 cd agentic_clarifycoder
 python compare_experiments.py --n_prompts 10 --runs 3 --answer_mode auto
 ```
-Generates:
+#### Args:
+```lua
+--n_prompts   Number of prompts (default: random 5–10)
+--runs        runs per mode
+```
+- answer_mode can be switched between auto and HIL.
+#### Generates:
 - 📊 results.csv and results.xlsx
 - 📈 Plots in /plots
 - 📝 Logs in /logs/<timestamp>/
