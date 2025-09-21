@@ -208,6 +208,8 @@ If you use ClarifyCoder-Agent in academic work:
   author={Amjad, Haseeb},
   year={2025},
   howpublished={GitHub},
+  url={https://github.com/hsb-amjad/clarifycoder-agent},
+  note={Code repository}
 }
 ```
 
